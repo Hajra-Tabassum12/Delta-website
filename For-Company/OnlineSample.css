@@ -1,0 +1,32 @@
+.tr{
+    background-color: #2d5f9f;
+    padding-top: 7px;
+    vertical-align: top;
+    text-align: center;
+}
+.fixed{
+    width: 200px;
+    height: 25px;
+    border: 1px solid #969697;
+    -webkit-box-shadow: 0 0 4px rgba(0, 0, 0, .30);
+    -moz-box-shadow: 0 0 4px rgba(0, 0, 0, .30);
+    box-shadow: 0 0 4px rgba(0, 0, 0, .30);
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+.msg{
+    text-align: left;
+    font-size: 12px;
+    font-family: Arial;
+    vertical-align: top;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.user-text {
+        font-family: Arial,Verdana;
+        font-size: 12px;
+        font-weight: bold;
+        color: #239fdd;
+    }

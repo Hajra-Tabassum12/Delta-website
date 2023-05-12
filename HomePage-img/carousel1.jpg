@@ -1,0 +1,655 @@
+<!DOCTYPE html>
+<!-- saved from url=(0029)https://www.delta-medlab.com/ -->
+<html lang="en" dir="ltr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <title>Delta Laboratories</title>
+
+  <meta name="facebook-domain-verification" content="dx7ksmhpb88p6dtpthjqoy1w2q268d">
+  <!-- Stylesheets -->
+  <link rel="stylesheet" id="langCss" href="./carousel1_files/englishStyle.css">
+  <link rel="stylesheet" id="langBootstapCss" href="./carousel1_files/engBootStyle.css">
+  <!-- <link rel="stylesheet" href="assets/css/bootstrap.min.rtl.css">
+  <link href="assets/css/style-rtl.css" rel="stylesheet">
+  <link href="assets/css/rtl.css" rel="stylesheet"> -->
+  <!-- <link href="assets/css/style.css" rel="stylesheet" *ngIf="getStyle"> -->
+  <!-- <link href="assets/css/style-rtl.css" rel="stylesheet" *ngIf="!getStyle"> -->
+
+  <!-- <link href="assets/css/bootstrap.css" rel="stylesheet"> -->
+
+  <!-- <link rel="stylesheet" href="https://cdn.rtlcss.com/bootstrap/v4.5.3/css/bootstrap.min.css" integrity="sha384-JvExCACAZcHNJEc7156QaHXTnQL3hQBixvj5RV5buE7vgnNEzzskDtx9NQ4p6BJe" crossorigin="anonymous"> -->
+  <!-- <link href="assets/css/bootstrap.min.rtl.css" rel="stylesheet" *ngIf="!getStyle"> -->
+
+  <!-- <link href="assets/css/style-rtl.css" rel="stylesheet"> -->
+  <!-- <link href="assets/css/rtl.css" rel="stylesheet" *ngIf="!getStyle"> -->
+
+  <!-- Responsive File -->
+  <style>@media only screen and (max-width: 7000px){.page-wrapper{overflow:hidden}}@media (min-width: 320px) and (max-width: 767px){}</style><link type="text/css" href="./carousel1_files/responsive.css" rel="stylesheet" media="all" onload="this.media=&#39;all&#39;"><noscript><link rel="stylesheet" href="assets/css/responsive.css"></noscript>
+  <!-- Color File -->
+  <style>.preloader-close{background-color:var(--primary-1)}</style><link type="text/css" href="./carousel1_files/color-4.css" rel="stylesheet" media="all" onload="this.media=&#39;all&#39;"><noscript><link rel="stylesheet" href="assets/css/color-4.css"></noscript>
+  <style>@import url('fontawesome-all.css');@import url('animate.css');@import url('custom-animate.css');@import url('flaticon.css');@import url('owl.css');@import url('jquery-ui.css');@import url('jquery.fancybox.min.css');@import url('scrollbar.css');@import url('hover.css');@import url('jquery.touchspin.css');@import url('botstrap-select.min.css');@import url('shop.css');@import url('swiper.min.css');@import url('rtl.css');</style><link type="text/css" href="./carousel1_files/styleImports.css" rel="stylesheet" media="all" onload="this.media=&#39;all&#39;"><noscript><link rel="stylesheet" href="assets/css/styleImports.css"></noscript>
+  <style>:root{--fira-sans:"Fira Sans", sans-serif;--primary:#5358a6;--secondery:#a2bf62;--primary-1:#424794}.preloader-close{background-color:var(--secondery)}</style><link type="text/css" href="./carousel1_files/color.css" rel="stylesheet" media="all" onload="this.media=&#39;all&#39;"><noscript><link rel="stylesheet" href="assets/css/color.css"></noscript>
+
+  <!--<base href="/">--><base href=".">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+  <meta name="facebook-domain-verification" content="55r8w0hezyi97ye1ntcyrgwzq7ixkp">
+  <link rel="icon" type="image/x-icon" href="https://www.delta-medlab.com/assets/images/logo-small.jpeg">
+
+  <script async="true" src="./carousel1_files/8c8c6777-af67-4746-8d75-175173a66f7e.js.download" crossorigin="anonymous"></script><script src="./carousel1_files/1834765279998085" async=""></script><script async="" src="./carousel1_files/fbevents.js.download"></script><script async="" src="./carousel1_files/scevent.min.js.download"></script><script async="" src="./carousel1_files/gtm.js.download"></script><script src="./carousel1_files/jquery-3.5.1.slim.min.js.download" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
+  </script>
+  <script src="./carousel1_files/popper.min.js.download" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous">
+  </script>
+  <!--
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx"
+    crossorigin="anonymous"></script>
+-->
+  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css"
+  integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous"> -->
+
+  <link rel="preconnect" href="https://fonts.gstatic.com/">
+  <style type="text/css">@font-face{font-family:'Roboto';font-style:normal;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fCRc4AMP6lbBP.woff2) format('woff2');unicode-range:U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;}@font-face{font-family:'Roboto';font-style:normal;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fABc4AMP6lbBP.woff2) format('woff2');unicode-range:U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;}@font-face{font-family:'Roboto';font-style:normal;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fCBc4AMP6lbBP.woff2) format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBxc4AMP6lbBP.woff2) format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fCxc4AMP6lbBP.woff2) format('woff2');unicode-range:U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;}@font-face{font-family:'Roboto';font-style:normal;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fChc4AMP6lbBP.woff2) format('woff2');unicode-range:U+0100-02AF, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc4AMP6lQ.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu72xKKTU1Kvnz.woff2) format('woff2');unicode-range:U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu5mxKKTU1Kvnz.woff2) format('woff2');unicode-range:U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7mxKKTU1Kvnz.woff2) format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4WxKKTU1Kvnz.woff2) format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7WxKKTU1Kvnz.woff2) format('woff2');unicode-range:U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7GxKKTU1Kvnz.woff2) format('woff2');unicode-range:U+0100-02AF, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCRc4AMP6lbBP.woff2) format('woff2');unicode-range:U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fABc4AMP6lbBP.woff2) format('woff2');unicode-range:U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCBc4AMP6lbBP.woff2) format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBxc4AMP6lbBP.woff2) format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCxc4AMP6lbBP.woff2) format('woff2');unicode-range:U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fChc4AMP6lbBP.woff2) format('woff2');unicode-range:U+0100-02AF, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;font-display:swap;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}</style>
+  <style type="text/css">@font-face{font-family:'Material Icons';font-style:normal;font-weight:400;src:url(https://fonts.gstatic.com/s/materialicons/v140/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2) format('woff2');}.material-icons{font-family:'Material Icons';font-weight:normal;font-style:normal;font-size:24px;line-height:1;letter-spacing:normal;text-transform:none;display:inline-block;white-space:nowrap;word-wrap:normal;direction:ltr;-webkit-font-feature-settings:'liga';-webkit-font-smoothing:antialiased;}</style>
+  <link rel="stylesheet" type="text/css" href="./carousel1_files/owl.carousel.min.css">
+  <link rel="stylesheet" type="text/css" href="./carousel1_files/owl.theme.default.min.css">
+  <link rel="stylesheet" type="text/css" href="./carousel1_files/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer">
+
+  <!-- Google Tag Manager -->
+  <script>
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-KJR2KD9');
+
+  </script>
+  <!-- End Google Tag Manager -->
+  <style>
+    nav {
+      padding: auto;
+    }
+
+    #cssmenu,
+    #cssmenu ul,
+    #cssmenu ul li,
+    #cssmenu ul li a,
+    #cssmenu #head-mobile {
+      border: 0;
+      list-style: none;
+      line-height: 1;
+      display: block;
+      position: relative;
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;
+      color: #4f5399;
+      font-weight: 600;
+    }
+
+    #cssmenu:after,
+    #cssmenu>ul:after {
+      content: ".";
+      display: block;
+      clear: both;
+      visibility: hidden;
+      line-height: 0;
+      height: 0
+    }
+
+    #cssmenu #head-mobile {
+      display: none
+    }
+
+    #cssmenu>ul>li {
+      display: inline-block;
+      padding: 35px 12px;
+    }
+
+    #cssmenu>ul>li.has-sub>a:after {
+      position: absolute;
+      top: 22px;
+      right: 11px;
+      width: 8px;
+      height: 2px;
+      display: block;
+      background: #ddd;
+      content: ''
+    }
+
+    #cssmenu>ul>li.has-sub>a:before {
+      position: absolute;
+      top: 19px;
+      right: 14px;
+      display: block;
+      width: 2px;
+      height: 8px;
+      background: #ddd;
+      content: '';
+      -webkit-transition: all .25s ease;
+      -ms-transition: all .25s ease;
+      transition: all .25s ease
+    }
+
+    #cssmenu>ul>li.has-sub:hover>a:before {
+      top: 23px;
+      height: 0
+    }
+
+    #cssmenu ul ul {
+      position: absolute;
+      left: -9999px;
+      top: 100%;
+      width: max-content;
+      min-width: 180px;
+      background-color: #424794;
+      padding: 10px
+    }
+
+    #cssmenu ul ul li {
+      height: 0;
+      -webkit-transition: all .25s ease;
+      -ms-transition: all .25s ease;
+      transition: all .25s ease
+    }
+
+    #cssmenu ul ul li a:hover {
+      color: #b5b9f9 !important;
+    }
+
+    #cssmenu li:hover>ul {
+      left: auto
+    }
+
+    #cssmenu li:hover>ul>li {
+      height: 40px
+    }
+
+    #cssmenu ul ul ul {
+      margin-left: 100%;
+      top: -10px;
+    }
+
+    #cssmenu ul ul li a {
+      border-bottom: 0px solid rgba(150, 150, 150, 0.15);
+      padding: 11px 15px;
+      color: #fff;
+      font-weight: 400;
+    }
+
+    #cssmenu ul ul li:last-child>a,
+    #cssmenu ul ul li.last-item>a {
+      border-bottom: 0
+    }
+
+    #cssmenu ul ul li:hover>a,
+    #cssmenu ul ul li a:hover {
+      color: #fff
+    }
+
+    #cssmenu ul ul li.has-sub>a:after {
+      position: absolute;
+      top: 16px;
+      right: 11px;
+      width: 8px;
+      height: 2px;
+      display: block;
+      content: ''
+    }
+
+    #cssmenu ul ul li.has-sub>a:before {
+      position: absolute;
+      top: 13px;
+      right: 14px;
+      display: block;
+      width: 2px;
+      height: 8px;
+      content: '';
+      -webkit-transition: all .25s ease;
+      -ms-transition: all .25s ease;
+      transition: all .25s ease
+    }
+
+    #cssmenu ul ul>li.has-sub:hover>a:before {
+      top: 17px;
+      height: 0
+    }
+
+    #cssmenu ul ul li.has-sub:hover,
+    #cssmenu ul li.has-sub ul li.has-sub ul li:hover {
+      background: none;
+    }
+
+    #cssmenu ul ul ul li.active a {
+      border-left: 1px solid #333
+    }
+
+    #cssmenu>ul>li.has-sub>ul>li.active>a,
+    #cssmenu>ul ul>li.has-sub>ul>li.active>a {
+      border-top: 0px solid #333
+    }
+
+    #cssmenu>ul>li.has-sub>a.dmenu:after,
+    #cssmenu>ul>li.has-sub>a.dmenu:before {
+      display: none;
+    }
+
+    .dmenu {
+      padding-right: 6px;
+    }
+
+    #cssmenu ul ul li.has-sub>a:before,
+    #cssmenu ul ul li.has-sub>a:after {
+      background-color: #fff;
+    }
+
+
+
+    @media screen and (max-width:1000px) {
+
+
+      nav {
+        width: 100%;
+      }
+
+      #cssmenu {
+        width: 100%;
+        background: #fff;
+      }
+
+      #cssmenu ul {
+        width: 100%;
+        display: none;
+        background: #fff;
+      }
+
+      #cssmenu ul li {
+        width: 100%;
+        padding: 0px;
+        border-bottom: 1px solid #dddddd6b;
+      }
+
+      #cssmenu ul ul li,
+      #cssmenu li:hover>ul>li {
+        height: auto
+      }
+
+      #cssmenu ul li a,
+      #cssmenu ul ul li a {
+        width: 100%;
+        border-bottom: 0;
+        padding: 12px 15px;
+      }
+
+      #cssmenu>ul>li {
+        float: none
+      }
+
+      #cssmenu ul ul li a {
+        padding-left: 25px !important
+      }
+
+      #cssmenu ul ul ul li a {
+        padding-left: 35px
+      }
+
+      #cssmenu ul ul li a {
+        color: #ddd;
+        background: none
+      }
+
+      #cssmenu ul ul li:hover>a,
+      #cssmenu ul ul li.active>a {
+        color: #fff
+      }
+
+      #cssmenu ul ul,
+      #cssmenu ul ul ul {
+        position: relative;
+        left: 0;
+        width: 100%;
+        margin: 0;
+        text-align: left
+      }
+
+      #cssmenu>ul>li.has-sub>a:after,
+      #cssmenu>ul>li.has-sub>a:before,
+      #cssmenu ul ul>li.has-sub>a:after,
+      #cssmenu ul ul>li.has-sub>a:before {
+        display: none
+      }
+
+      #cssmenu #head-mobile {
+        display: block;
+        padding: 23px;
+        color: #ddd;
+        font-size: 12px;
+        font-weight: 700
+      }
+
+      .button {
+        width: 55px;
+        height: 46px;
+        position: absolute;
+        right: 0;
+        top: -45px;
+        cursor: pointer;
+        z-index: 12399994;
+      }
+
+      .button:after {
+        position: absolute;
+        top: 23px;
+        right: 20px;
+        display: block;
+        height: 9px;
+        width: 20px;
+        border-top: 2px solid #000;
+        border-bottom: 2px solid #000;
+        content: '';
+      }
+
+      .button:before {
+        -webkit-transition: all .3s ease;
+        -ms-transition: all .3s ease;
+        transition: all .3s ease;
+        position: absolute;
+        top: 16px;
+        right: 20px;
+        display: block;
+        height: 2px;
+        width: 20px;
+        background: #000;
+        content: ''
+      }
+
+      .button.menu-opened:after {
+        -webkit-transition: all .3s ease;
+        -ms-transition: all .3s ease;
+        transition: all .3s ease;
+        top: 23px;
+        border: 0;
+        height: 2px;
+        width: 19px;
+        background: #000;
+        -webkit-transform: rotate(45deg);
+        -moz-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        -o-transform: rotate(45deg);
+        transform: rotate(45deg)
+      }
+
+      .button.menu-opened:before {
+        top: 23px;
+        background: #000;
+        width: 19px;
+        -webkit-transform: rotate(-45deg);
+        -moz-transform: rotate(-45deg);
+        -ms-transform: rotate(-45deg);
+        -o-transform: rotate(-45deg);
+        transform: rotate(-45deg)
+      }
+
+      #cssmenu .submenu-button {
+        position: absolute;
+        z-index: 99;
+        right: 0;
+        top: 0;
+        display: block;
+        border-left: 0px solid #444;
+        height: 40px;
+        width: 50px;
+        cursor: pointer;
+        background: #424794;
+      }
+
+      #cssmenu .submenu-button.submenu-opened {
+        background: #424794
+      }
+
+      #cssmenu ul ul .submenu-button {
+        height: 40px;
+        width: 49px;
+        background: #272c76 !important;
+      }
+
+      #cssmenu .submenu-button:after {
+        position: absolute;
+        top: 18px;
+        right: 19px;
+        width: 8px;
+        height: 2px;
+        display: block;
+        background: #fff;
+        content: ''
+      }
+
+      #cssmenu ul ul .submenu-button:after {
+        top: 20px;
+        right: 20px
+      }
+
+      #cssmenu .submenu-button.submenu-opened:after {
+        background: #fff
+      }
+
+      #cssmenu .submenu-button:before {
+        position: absolute;
+        top: 15px;
+        right: 22px;
+        display: block;
+        width: 2px;
+        height: 8px;
+        background: #fff;
+        content: ''
+      }
+
+      #cssmenu ul ul .submenu-button:before {
+        top: 17px;
+        right: 23px
+      }
+
+      #cssmenu .submenu-button.submenu-opened:before {
+        display: none
+      }
+
+      #cssmenu ul ul ul li.active a {
+        border-left: none
+      }
+
+      #cssmenu>ul>li.has-sub>ul>li.active>a,
+      #cssmenu>ul ul>li.has-sub>ul>li.active>a {
+        border-top: none
+      }
+
+      #cssmenu ul ul {
+        padding: 0 !important;
+      }
+
+      #cssmenu ul ul ul {
+        background: #272c76 !important;
+        top: 0 !important;
+      }
+
+      #cssmenu ul ul ul li {
+        border: none !important;
+      }
+    }
+
+  </style>
+
+  <!-- Snap Pixel Code -->
+  <script type="text/javascript">
+    (function (e, t, n) {
+      if (e.snaptr) return;
+      var a = e.snaptr = function () {
+        a.handleRequest ? a.handleRequest.apply(a, arguments) : a.queue.push(arguments)
+      };
+      a.queue = [];
+      var s = 'script';
+      r = t.createElement(s);
+      r.async = !0;
+      r.src = n;
+      var u = t.getElementsByTagName(s)[0];
+      u.parentNode.insertBefore(r, u);
+    })(window, document,
+      'https://sc-static.net/scevent.min.js');
+
+    snaptr('init', '8c8c6777-af67-4746-8d75-175173a66f7e', {
+      'user_email': '_INSERT_USER_EMAIL_'
+    });
+
+    snaptr('track', 'PAGE_VIEW');
+
+  </script>
+
+  <!-- Google tag (gtag.js) -->
+  <script async="" src="./carousel1_files/js"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-HGJ186VGR5');
+
+  </script>
+
+
+  <!-- End Snap Pixel Code -->
+
+  <!-- Meta Pixel Code -->
+  <script>
+    ! function (f, b, e, v, n, t, s) {
+      if (f.fbq) return;
+      n = f.fbq = function () {
+        n.callMethod ?
+          n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+      };
+      if (!f._fbq) f._fbq = n;
+      n.push = n;
+      n.loaded = !0;
+      n.version = '2.0';
+      n.queue = [];
+      t = b.createElement(e);
+      t.async = !0;
+      t.src = v;
+      s = b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t, s)
+    }(window, document, 'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1834765279998085');
+    fbq('track', 'PageView');
+
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+      src="https://www.facebook.com/tr?id=1834765279998085&ev=PageView&noscript=1" /></noscript>
+  <!-- End Meta Pixel Code -->
+<style>html,body{height:100%}body{margin:0}.preloader{position:fixed;left:0px;top:0px;width:100%;height:100%;z-index:999;background-position:center center;background-repeat:no-repeat;background-image:url(preloader.90b63e7f5c029d3e.svg)}.preloader-close{position:fixed;z-index:999999;color:#fff;padding:10px 20px;cursor:pointer;right:0;bottom:0;font-weight:600}.loader-wrap{position:fixed;left:0px;top:0px;width:100%;height:100%;z-index:999999}.loader-wrap .layer-one{position:absolute;left:0%;top:0;width:33.3333%;height:100%;overflow:hidden}.loader-wrap .layer-two{position:absolute;left:33.3333%;top:0;width:33.3333%;height:100%;overflow:hidden}.loader-wrap .layer-three{position:absolute;left:66.6666%;top:0;width:33.3333%;height:100%;overflow:hidden}.loader-wrap .layer .overlay{position:absolute;left:0;top:0;width:100%;height:100%;background:#0a273d}*{margin:0;padding:0;border:none;outline:none;font-size:100%;line-height:inherit}:root{--primary:#5358a6;--secondery:#a2bf62;--primary-1:#424794;--light-blue:#e9eef8;--bg-grey:""}.page-wrapper{position:relative;width:100%;min-width:300px;z-index:9;margin:0 auto;overflow:hidden}body{font-size:16px;color:var(--primary-1);line-height:1.7em;font-weight:400;-webkit-font-smoothing:antialiased;background:rgb(255,255,255)}.page-wrapper{position:relative;margin:0 auto;width:100%;min-width:300px;z-index:9;overflow:hidden}</style><link rel="stylesheet" href="./carousel1_files/styles.ad82394e9d2a0bf3.css" media="all" onload="this.media=&#39;all&#39;"><noscript><link rel="stylesheet" href="styles.ad82394e9d2a0bf3.css"></noscript><style></style><style>.dropdown[_ngcontent-ksr-c81]{position:relative;display:inline-block}.dropdown-content[_ngcontent-ksr-c81]{display:none;position:absolute;background-color:#f9f9f9;min-width:160px;box-shadow:0 8px 16px #0003;padding:12px 16px;z-index:1;text-align:left}.dropdown[_ngcontent-ksr-c81]:hover   .dropdown-content[_ngcontent-ksr-c81]{display:block}.call-popup-wrapper[_ngcontent-ksr-c81]{text-align:center;color:#fff;vertical-align:middle;margin:0;padding:5px;background-color:#a2bf62}.text[_ngcontent-ksr-c81]{display:inline-block;font-size:14px}.cross-icon[_ngcontent-ksr-c81]{display:inline-block;position:absolute;right:18px;cursor:pointer}.language[_ngcontent-ksr-c81]{position:absolute;top:100px;z-index:9999;right:0}.language[_ngcontent-ksr-c81]   a[_ngcontent-ksr-c81]{padding:5px;border-radius:20px 0 0 20px;background:#ffffff;display:inline-block}.language[_ngcontent-ksr-c81]   a[_ngcontent-ksr-c81]   img[_ngcontent-ksr-c81]{width:30px;border-radius:50%}  .rtl .main-menu .navigation>li{margin-left:20px}.btn-style-one[_ngcontent-ksr-c81]{background-color:var(--secondery)}.top-popup[_ngcontent-ksr-c81]{background-color:#a2bf62}.popup-cross[_ngcontent-ksr-c81]{cursor:pointer;font-size:20px}.number-text[_ngcontent-ksr-c81]{color:#fff;margin:0 5px}</style><style>.float[_ngcontent-ksr-c82]{position:fixed;width:60px;height:60px;bottom:40px;right:40px;background-color:#25d366;color:#fff;border-radius:50px;text-align:center;font-size:30px;box-shadow:2px 2px 3px #999;z-index:100}.my-float[_ngcontent-ksr-c82]{margin-top:16px}.main-footer[_ngcontent-ksr-c82]   .links-widget[_ngcontent-ksr-c82]   ul[_ngcontent-ksr-c82]   li[_ngcontent-ksr-c82]   a[_ngcontent-ksr-c82]:before, .main-footer[_ngcontent-ksr-c82]   .links-widget[_ngcontent-ksr-c82]   ul[_ngcontent-ksr-c82]   li[_ngcontent-ksr-c82]   a[_ngcontent-ksr-c82]:after{background:none}</style><style>.slide-item[_ngcontent-ksr-c64]{background-size:cover;background-repeat:no-repeat;position:relative;top:4rem}.covData[_ngcontent-ksr-c64]   h2[_ngcontent-ksr-c64]{font-size:3.5rem}.covData[_ngcontent-ksr-c64]   .text[_ngcontent-ksr-c64]{font-size:1.3rem}.content-block[_ngcontent-ksr-c64]   h4[_ngcontent-ksr-c64]{color:#424794}.span[_ngcontent-ksr-c64]{color:green;position:relative;top:.4rem;padding-right:.5rem}.subspan[_ngcontent-ksr-c64]{margin-right:2rem;margin-top:1rem;padding:1rem;color:#424794}.content-display[_ngcontent-ksr-c64]{visibility:hidden}@media screen and (max-width: 568px){.content-display[_ngcontent-ksr-c64]{display:none}}.category_height[_ngcontent-ksr-c64]{height:65vh;overflow-y:auto}.category_height[_ngcontent-ksr-c64]::-webkit-scrollbar{width:0px}.package-box[_ngcontent-ksr-c64]   .inner-box[_ngcontent-ksr-c64]{position:relative}.package-box[_ngcontent-ksr-c64]   .lower-content[_ngcontent-ksr-c64]{position:relative}.package-box[_ngcontent-ksr-c64]   .overlay[_ngcontent-ksr-c64]{position:absolute;content:"";left:0;right:0;bottom:0px;padding:30px 20px 25px;top:0;background-color:#f1f3f7;opacity:0;transition:.5s;transform:perspective(400px) rotateX(-90deg);transform-origin:top;border-radius:6px}.package-box[_ngcontent-ksr-c64]   .inner-box[_ngcontent-ksr-c64]:hover   .overlay[_ngcontent-ksr-c64]{transform:perspective(400px) rotateX(0);opacity:1}.z-18[_ngcontent-ksr-c64]{z-index:18}.cursor-pointer[_ngcontent-ksr-c64]{cursor:pointer}  .carousel-indicators li{background-color:var(--primary-1)}  .carousel-inner{position:relative;width:100%;overflow:hidden;height:inherit}.why-choose-us-section[_ngcontent-ksr-c64]   .side-image[_ngcontent-ksr-c64]{display:flex;align-items:center;height:inherit}.carousel-item-next[_ngcontent-ksr-c64], .carousel-item-prev[_ngcontent-ksr-c64], .section-wide[_ngcontent-ksr-c64]   .auto-container[_ngcontent-ksr-c64]   ngb-carousel.carousel.slide[_ngcontent-ksr-c64]   .carousel-inner[_ngcontent-ksr-c64]   .carousel-item.active[_ngcontent-ksr-c64], .section-wide[_ngcontent-ksr-c64]   .auto-container[_ngcontent-ksr-c64]   ngb-carousel.carousel.slide[_ngcontent-ksr-c64]   .carousel-inner[_ngcontent-ksr-c64]   .carousel-item[_ngcontent-ksr-c64]{height:100%!important}.feature-block-three[_ngcontent-ksr-c64]   .overlay[_ngcontent-ksr-c64]{position:absolute;top:0;left:0;right:0;bottom:0;transition:1s;opacity:0;height:inherit;padding:15px}.feature-block-three[_ngcontent-ksr-c64]   .overlay[_ngcontent-ksr-c64]:hover{opacity:1;background-color:#e9eef8}.feature-block-three[_ngcontent-ksr-c64]   .read-more-link[_ngcontent-ksr-c64]{position:absolute;padding-left:16px;font-size:16px;font-weight:600;font-family:var(--fira-sans);transition:.5s;bottom:9px}.comment-info[_ngcontent-ksr-c64]{border:1px solid #dee2e6!important;padding:5px 20px;display:inline-block;border-radius:30px;margin:3px 2px}.comment-box[_ngcontent-ksr-c64]{display:inline-block}.fact-counter[_ngcontent-ksr-c64]   .count-box[_ngcontent-ksr-c64]{font-size:66px}#certificate_body_p[_ngcontent-ksr-c64]   span[_ngcontent-ksr-c64]:not(.ar-sp){float:left}.accredH[_ngcontent-ksr-c64]{text-align:center;font-weight:bolder!important}.mid-grid-content[_ngcontent-ksr-c64]{padding:10px 0 40px;background-size:cover;background-position:center}.grid-container[_ngcontent-ksr-c64]{display:grid;grid-template-columns:1fr 1fr 1fr 1fr 1fr;grid-gap:0px}.grid-icon-container[_ngcontent-ksr-c64]{margin-top:25px;margin-bottom:10px}.fonteimage[_ngcontent-ksr-c64]{font-size:25px;border:1px;border-radius:50%;width:50px;height:50px;display:flex;justify-content:center;align-items:center;background-color:#a2bf62;color:#fff;margin-left:15px;margin-right:15px}.single-card[_ngcontent-ksr-c64]{box-shadow:#0003 0 0 50px;border-radius:10px;background-color:#fff}.grid-content-heading[_ngcontent-ksr-c64]{margin:7px 3px;font-size:22px;font-weight:600;color:var(--primary-1)}.single-card[_ngcontent-ksr-c64]:hover   .fonteimage[_ngcontent-ksr-c64]{background-color:#00f;color:#fff;transition:all 1s}.grid_heading[_ngcontent-ksr-c64]{font-size:35px;width:50%;margin:0 auto 50px;font-weight:bold;text-align:center!important;color:var(--primary-1)}.offer-width[_ngcontent-ksr-c64]{width:90%;margin:0 auto}.clear[_ngcontent-ksr-c64]{clear:both;display:block;content:""}.quick-link-middle[_ngcontent-ksr-c64]{font-family:var(--fira-sans);font-weight:600;font-size:27px}</style><style>.lab-pac-image-box{width:100%;height:300px;cursor:pointer}.span-close-btn{font-size:20px;font-weight:bold;border:1px solid blue;color:#00f;padding:6px 10px;margin:4px;border-radius:5px;box-shadow:0 0 20px #0000ff85}.modal-btn-close{align-self:center;margin-right:10px}.content-inner-modal{border-left:1px dashed blue}.inner-tests-details{font-weight:400}.model-hr-dashed{border-bottom:1px dashed blue;width:70%;margin:auto}.rtl .content-inner-modal{border-right:1px dashed blue;border-left:none}@media screen and (max-width: 767px){.content-inner-modal{border:none}.model-inner-texts{display:none}.model-hr-dashed{margin-top:30px}}@media screen and (max-width: 500px){.model-inner-texts{font-size:18px;font-weight:600}.inner-tests-details{font-size:13px;font-weight:400}}@media screen and (max-width: 576px){.lab-pac-image-box{height:450px}}@media screen and (max-width: 420px){.lab-pac-image-box{height:400px}}.modal-header{padding:.55rem 1.5rem!important}.cursor-pointer{cursor:pointer}.inner_modal_image{height:100%;max-height:calc(100vh - 135px)}.inner_image_container{display:flex;justify-content:center}.modal-open .modal::-webkit-scrollbar{display:none}
+</style><style>.auto-container[_ngcontent-ksr-c50]   a[_ngcontent-ksr-c50]{color:#212529}.download_icon[_ngcontent-ksr-c50]{position:absolute;right:50px;top:20px;width:36px;z-index:1;font-size:24px}.download_icon[_ngcontent-ksr-c50]   a[_ngcontent-ksr-c50]   i[_ngcontent-ksr-c50]{color:var(--primary-1)}.text-center[_ngcontent-ksr-c50]{font-weight:bold}.award-block-two.new[_ngcontent-ksr-c50]{min-height:550px}.award-block-two[_ngcontent-ksr-c50]   .image[_ngcontent-ksr-c50]{min-height:150px}.award-block-two[_ngcontent-ksr-c50]   p[_ngcontent-ksr-c50]{text-align:justify}@media screen and (max-width: 950px) and (min-width: 750px){.award-block-two.new[_ngcontent-ksr-c50]{min-height:620px}}.en-float[_ngcontent-ksr-c50]{float:left;text-align:left}.download_spam[_ngcontent-ksr-c50]   i[_ngcontent-ksr-c50]{font-size:1.5rem;color:var(--primary-1)}</style></head>
+
+<body class="">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KJR2KD9" height="0" width="0"
+      style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="page-wrapper">
+    <app-root _nghost-ksr-c83="" ng-version="13.0.3"><div _ngcontent-ksr-c83="" class="page-wrapper"><app-header _ngcontent-ksr-c83="" _nghost-ksr-c81=""><header _ngcontent-ksr-c81="" class="main-header header-style-four"><div _ngcontent-ksr-c81="" class="header-upper style-four"><div _ngcontent-ksr-c81="" class="top-popup"><div _ngcontent-ksr-c81="" class="d-flex justify-content-between p-3 custom-pad"><div _ngcontent-ksr-c81="" class="d-flex justify-content-center w-100 text-white smallfont">Call Us :<span _ngcontent-ksr-c81="" class="number-text">8001240412</span> - Whatsapp : <span _ngcontent-ksr-c81="" class="number-text">8001240412</span></div><i _ngcontent-ksr-c81="" class="fal fa-times d-flex align-items-center mr-3 text-white popup-cross"></i></div></div><!----><div _ngcontent-ksr-c81="" class="inner-container clearfix"><div _ngcontent-ksr-c81="" class="nav-outer clearfix pr-0"><div _ngcontent-ksr-c81="" class="auto-container"><div _ngcontent-ksr-c81="" class="d-flex flex-row align-items-center justify-content-between"><div _ngcontent-ksr-c81="" class="custom-padding-nav"><div _ngcontent-ksr-c81="" class="logo-box"><div _ngcontent-ksr-c81=""><a _ngcontent-ksr-c81="" href="https://www.delta-medlab.com/index.html"><img _ngcontent-ksr-c81="" src="./carousel1_files/logo-delta.png" width="200" alt=""></a></div></div></div><nav _ngcontent-ksr-c81="" id="cssmenu"><div _ngcontent-ksr-c81="" class="button"></div><ul _ngcontent-ksr-c81="" class="navigation clearfix"><li _ngcontent-ksr-c81=""><a _ngcontent-ksr-c81="" routerlink="/" class="dmenu" href="https://www.delta-medlab.com/">Home </a></li><li _ngcontent-ksr-c81="" class="dropdown has-sub"><span class="submenu-button"></span><a _ngcontent-ksr-c81="" class="dmenu">Services <b _ngcontent-ksr-c81="" class="fa-solid fa-angle-down"></b></a><ul _ngcontent-ksr-c81=""><li _ngcontent-ksr-c81=""><a _ngcontent-ksr-c81="" routerlink="category-test-list/tests" href="https://www.delta-medlab.com/category-test-list/tests">Tests</a></li><li _ngcontent-ksr-c81=""><a _ngcontent-ksr-c81="" routerlink="lab-packages" href="https://www.delta-medlab.com/lab-packages">Packages</a></li><li _ngcontent-ksr-c81=""><a _ngcontent-ksr-c81="" routerlink="/home-services" class="dmenuright" href="https://www.delta-medlab.com/home-services">Home Services</a></li></ul></li><li _ngcontent-ksr-c81=""><a _ngcontent-ksr-c81="" href="http://blog.delta-medlab.com/" target="_blank">Blogs</a></li><li _ngcontent-ksr-c81=""><a _ngcontent-ksr-c81="" routerlink="/branches" href="https://www.delta-medlab.com/branches">Branches</a></li><li _ngcontent-ksr-c81="" class="has-sub"><span class="submenu-button"></span><a _ngcontent-ksr-c81="" class="dmenu">For Companies<b _ngcontent-ksr-c81="" class="fa-solid fa-angle-down"></b></a><ul _ngcontent-ksr-c81=""><li _ngcontent-ksr-c81=""><a _ngcontent-ksr-c81="" href="http://193.122.69.141:8088/login.aspx?ReturnUrl=%2f" target="_blank">Online Sample Regestration</a></li><li _ngcontent-ksr-c81=""><a _ngcontent-ksr-c81="" href="http://supplychain.delta-medlab.com/customer_login" target="_blank">Material Request</a></li><li _ngcontent-ksr-c81=""><a _ngcontent-ksr-c81="" href="https://www.delta-medlab.com/#" target="_blank">Outreach</a></li></ul></li><li _ngcontent-ksr-c81="" class="has-sub"><span class="submenu-button"></span><a _ngcontent-ksr-c81="" class="dmenu">About Us<b _ngcontent-ksr-c81="" class="fa-solid fa-angle-down"></b></a><ul _ngcontent-ksr-c81=""><li _ngcontent-ksr-c81=""><a _ngcontent-ksr-c81="" routerlink="/about" href="https://www.delta-medlab.com/about">About Us</a></li><li _ngcontent-ksr-c81=""><a _ngcontent-ksr-c81="" routerlink="/certificates" href="https://www.delta-medlab.com/certificates">Accreditation</a></li><li _ngcontent-ksr-c81=""><a _ngcontent-ksr-c81="" routerlink="/specimen-handeling" href="https://www.delta-medlab.com/specimen-handeling">Specimen Handeling</a></li><li _ngcontent-ksr-c81=""><a _ngcontent-ksr-c81="" routerlink="/glimps" href="https://www.delta-medlab.com/glimps">Lab Overview</a></li><li _ngcontent-ksr-c81=""><a _ngcontent-ksr-c81="" routerlink="/news" href="https://www.delta-medlab.com/news">News and Updates</a></li></ul></li><li _ngcontent-ksr-c81=""><a _ngcontent-ksr-c81="" routerlink="/join-our-team" href="https://www.delta-medlab.com/join-our-team">Join Us</a></li></ul></nav><div _ngcontent-ksr-c81=""><div _ngcontent-ksr-c81="" class="justify-content-md-end justify-content-between"><div _ngcontent-ksr-c81="" class="link-btn"><a _ngcontent-ksr-c81="" href="http://results.delta-medlab.com/" target="_blank" class="theme-btn btn-style-one getlink"><span _ngcontent-ksr-c81="" class="d-block">Get Your Results</span></a></div></div></div></div></div></div></div></div></header><div _ngcontent-ksr-c81="" class="language"><a _ngcontent-ksr-c81=""><img _ngcontent-ksr-c81="" src="./carousel1_files/arabic.png"> عربى</a></div><!----><!----><div _ngcontent-ksr-c81="" id="search-popup" class="search-popup"><div _ngcontent-ksr-c81="" class="close-search theme-btn"><span _ngcontent-ksr-c81="" class="fa fa-close"></span></div><div _ngcontent-ksr-c81="" class="popup-inner"><div _ngcontent-ksr-c81="" class="overlay-layer"></div><div _ngcontent-ksr-c81="" class="search-form"><form _ngcontent-ksr-c81="" novalidate="" method="post" action="https://www.delta-medlab.com/index.html" class="ng-untouched ng-pristine ng-valid"><div _ngcontent-ksr-c81="" class="form-group"><fieldset _ngcontent-ksr-c81=""><input _ngcontent-ksr-c81="" type="search" name="search-input" value="" placeholder="Search Here" required="" class="form-control"><input _ngcontent-ksr-c81="" type="submit" value="Search Now!" class="theme-btn"></fieldset></div></form><br _ngcontent-ksr-c81=""><h3 _ngcontent-ksr-c81="">Recent Search Keywords</h3><ul _ngcontent-ksr-c81="" class="recent-searches"><li _ngcontent-ksr-c81=""><a _ngcontent-ksr-c81="" href="https://www.delta-medlab.com/#">Finance</a></li><li _ngcontent-ksr-c81=""><a _ngcontent-ksr-c81="" href="https://www.delta-medlab.com/#">Idea</a></li><li _ngcontent-ksr-c81=""><a _ngcontent-ksr-c81="" href="https://www.delta-medlab.com/#">Service</a></li><li _ngcontent-ksr-c81=""><a _ngcontent-ksr-c81="" href="https://www.delta-medlab.com/#">Growth</a></li><li _ngcontent-ksr-c81=""><a _ngcontent-ksr-c81="" href="https://www.delta-medlab.com/#">Plan</a></li></ul></div></div></div></app-header><!----><router-outlet _ngcontent-ksr-c83=""></router-outlet><app-home _nghost-ksr-c64=""><div _ngcontent-ksr-c64="" id="search-popup" class="search-popup"><div _ngcontent-ksr-c64="" class="close-search theme-btn"><span _ngcontent-ksr-c64="" class="fa fa-close"></span></div><div _ngcontent-ksr-c64="" class="popup-inner"><div _ngcontent-ksr-c64="" class="overlay-layer"></div><div _ngcontent-ksr-c64="" class="search-form"><form _ngcontent-ksr-c64="" novalidate="" method="post" action="https://www.delta-medlab.com/index.html" class="ng-untouched ng-pristine ng-valid"><div _ngcontent-ksr-c64="" class="form-group"><fieldset _ngcontent-ksr-c64=""><input _ngcontent-ksr-c64="" type="search" name="search-input" value="" placeholder="Search Here" required="" class="form-control"><input _ngcontent-ksr-c64="" type="submit" value="Search Now!" class="theme-btn"></fieldset></div></form><br _ngcontent-ksr-c64=""><h3 _ngcontent-ksr-c64="">Recent Search Keywords</h3><ul _ngcontent-ksr-c64="" class="recent-searches"><li _ngcontent-ksr-c64=""><a _ngcontent-ksr-c64="">Finance</a></li><li _ngcontent-ksr-c64=""><a _ngcontent-ksr-c64="">Idea</a></li><li _ngcontent-ksr-c64=""><a _ngcontent-ksr-c64="">Service</a></li><li _ngcontent-ksr-c64=""><a _ngcontent-ksr-c64="">Growth</a></li><li _ngcontent-ksr-c64=""><a _ngcontent-ksr-c64="">Plan</a></li></ul></div></div></div><div _ngcontent-ksr-c64="" class="clear"></div><section _ngcontent-ksr-c64="" class="banner-section style-four"><div _ngcontent-ksr-c64="" class="slide-item"><div _ngcontent-ksr-c64="" class="container-fluid responsive" style="padding: 0; margin: 0; position: relative; top: 0rem; bottom: 0; margin-bottom: 3rem; z-index: 2;"><ngb-carousel _ngcontent-ksr-c64="" tabindex="0" class="carousel slide" aria-activedescendant="slide-package_banner" style="display: block;"><ol role="tablist" class="carousel-indicators"><li role="tab" class="active" aria-labelledby="slide-package_banner" aria-controls="slide-package_banner" aria-selected="true"></li><li role="tab" aria-labelledby="slide-certificate" aria-controls="slide-certificate" aria-selected="false" class=""></li><!----></ol><div class="carousel-inner"><div role="tabpanel" class="carousel-item active" id="slide-package_banner"><span class="sr-only"> Slide 1 of 2 </span><a _ngcontent-ksr-c64="" routerlink="/lab-packages" style="height: 100%;" href="https://www.delta-medlab.com/lab-packages"><div _ngcontent-ksr-c64="" class="auto-container"><div _ngcontent-ksr-c64="" class="content-box"><div _ngcontent-ksr-c64="" class="covData" style="margin-top: 13rem;"><h2 _ngcontent-ksr-c64="" class="content-display" style="color: #424794!important;"> Get the latest <br _ngcontent-ksr-c64=""> packages </h2><h2 _ngcontent-ksr-c64="" style="color: #424794!important; visibility: hidden;"><br _ngcontent-ksr-c64=""> done now </h2><div _ngcontent-ksr-c64="" class="text"></div><div _ngcontent-ksr-c64="" class="link-btn" style="visibility: hidden;"><a _ngcontent-ksr-c64="" routerlink="/lab-locations" class="theme-btn btn-style-one z-18" href="https://www.delta-medlab.com/lab-locations"><span _ngcontent-ksr-c64="" class="btn-title">Book Now <i _ngcontent-ksr-c64="" class="fa fa-caret-right"></i></span></a></div></div></div></div></a><!----></div><div role="tabpanel" class="carousel-item" id="slide-certificate"><span class="sr-only"> Slide 2 of 2 </span><a _ngcontent-ksr-c64="" routerlink="/certificates" href="https://www.delta-medlab.com/certificates"><div _ngcontent-ksr-c64="" class="auto-container"><div _ngcontent-ksr-c64="" class="content-box"><div _ngcontent-ksr-c64="" class="covData" style="margin-top: 13rem;"><h2 _ngcontent-ksr-c64="" class="content-display" style="color: #424794!important;"> Get the latest <br _ngcontent-ksr-c64=""> packages </h2><h2 _ngcontent-ksr-c64="" style="color: #424794!important; visibility: hidden;"><br _ngcontent-ksr-c64=""> done now </h2><div _ngcontent-ksr-c64="" class="text"></div><div _ngcontent-ksr-c64="" class="link-btn" style="visibility: hidden;"><a _ngcontent-ksr-c64="" routerlink="/lab-locations" class="theme-btn btn-style-one z-18" href="https://www.delta-medlab.com/lab-locations"><span _ngcontent-ksr-c64="" class="btn-title">Book Now <i _ngcontent-ksr-c64="" class="fa fa-caret-right"></i></span></a></div></div></div></div></a><!----></div><!----></div><a role="button" class="carousel-control-prev"><span aria-hidden="true" class="carousel-control-prev-icon"></span><span class="sr-only">Previous</span></a><!----><a role="button" class="carousel-control-next"><span aria-hidden="true" class="carousel-control-next-icon"></span><span class="sr-only">Next</span></a><!----></ngb-carousel></div></div></section><div _ngcontent-ksr-c64="" class="clear"></div><section _ngcontent-ksr-c64="" class="mid-grid-content" style="background-image: url(assets/images/background/mid-content-bg.jpg);"><div _ngcontent-ksr-c64="" class="offer-width"><div _ngcontent-ksr-c64="" class="mb-3 mt-4"><h2 _ngcontent-ksr-c64="" class="text-center grid_heading">Welcome to <br _ngcontent-ksr-c64="">Delta Medical Laboratories </h2></div><div _ngcontent-ksr-c64=""><h3 _ngcontent-ksr-c64="" class="w-100 mx-2 pb-3 quick-link-middle">What are you looking for today</h3></div><div _ngcontent-ksr-c64="" class="grid-container"><div _ngcontent-ksr-c64="" class="p-4 m-2 single-card"><div _ngcontent-ksr-c64="" class="grid-icon-container"><i _ngcontent-ksr-c64="" class="fa-regular fa-clipboard fonteimage"></i></div><h4 _ngcontent-ksr-c64="" class="grid-content-heading">Our Offers</h4><p _ngcontent-ksr-c64="" class="text-dark">To see the latest Offers, Packages and Tests availble.</p><a _ngcontent-ksr-c64="" routerlink="/lab-packages" href="https://www.delta-medlab.com/lab-packages">Read More...</a></div><div _ngcontent-ksr-c64="" class="p-4 m-2 single-card"><div _ngcontent-ksr-c64="" class="grid-icon-container"><i _ngcontent-ksr-c64="" class="fa fa-house fonteimage"></i></div><h4 _ngcontent-ksr-c64="" class="grid-content-heading">Home Service</h4><p _ngcontent-ksr-c64="" class="text-dark">To explore more about home services. </p><a _ngcontent-ksr-c64="" routerlink="/home-services" href="https://www.delta-medlab.com/home-services">Read More...</a></div><div _ngcontent-ksr-c64="" class="p-4 m-2 single-card"><div _ngcontent-ksr-c64="" class="grid-icon-container"><i _ngcontent-ksr-c64="" class="fa-solid fa-location-dot fonteimage"></i></div><h4 _ngcontent-ksr-c64="" class="grid-content-heading">Our Locations</h4><p _ngcontent-ksr-c64="" class="text-dark">To find the closest Delta Center to you and more. </p><a _ngcontent-ksr-c64="" routerlink="/branches" href="https://www.delta-medlab.com/branches">Read More...</a></div><div _ngcontent-ksr-c64="" class="p-4 m-2 single-card"><div _ngcontent-ksr-c64="" class="grid-icon-container"><i _ngcontent-ksr-c64="" class="fa-solid fa-square-poll-horizontal fonteimage"></i></div><h4 _ngcontent-ksr-c64="" class="grid-content-heading">Results</h4><p _ngcontent-ksr-c64="" class="text-dark">To veiw your Results and more.</p><a _ngcontent-ksr-c64="" href="http://results.delta-medlab.com/">Read More...</a></div><div _ngcontent-ksr-c64="" class="p-4 m-2 single-card"><div _ngcontent-ksr-c64="" class="grid-icon-container"><i _ngcontent-ksr-c64="" class="fa-solid fa-phone fonteimage"></i></div><h4 _ngcontent-ksr-c64="" class="grid-content-heading">Contact Us</h4><p _ngcontent-ksr-c64="" class="text-dark">For any queries/to know more about Delta Offers and Packages.</p><a _ngcontent-ksr-c64="" href="https://www.delta-medlab.com/#footer">Read More...</a></div></div></div></section><section _ngcontent-ksr-c64="" class="about-section"><div _ngcontent-ksr-c64="" class="auto-container"><div _ngcontent-ksr-c64="" class="row"><div _ngcontent-ksr-c64="" class="col-lg-6"><div _ngcontent-ksr-c64="" class="image-block"><div _ngcontent-ksr-c64="" data-wow-delay="0ms" data-wow-duration="1500ms" class="image-one wow fadeInLeft"><div _ngcontent-ksr-c64="" class="image-box"><img _ngcontent-ksr-c64="" src="./carousel1_files/image-5.jpg" data-src="assets/images/resource/image-5.jpg" alt="" class="lazy-image owl-lazy"></div></div><div _ngcontent-ksr-c64="" data-wow-delay="300ms" data-wow-duration="1500ms" class="image-two wow fadeInLeft"><div _ngcontent-ksr-c64="" class="image-box"><img _ngcontent-ksr-c64="" src="./carousel1_files/image-4.jpg" data-src="assets/images/resource/image-4.jpg" alt="" class="lazy-image owl-lazy"></div></div></div></div><div _ngcontent-ksr-c64="" class="col-lg-6"><div _ngcontent-ksr-c64="" class="sec-title"><h2 _ngcontent-ksr-c64="">Delta Medical Laboratories </h2><div _ngcontent-ksr-c64="" class="text-decoration"><span _ngcontent-ksr-c64="" class="left"></span><span _ngcontent-ksr-c64="" class="right"></span></div><div _ngcontent-ksr-c64="" class="text">Delta Medical Laboratories is one of the first private reference laboratories in Saudi Arabia. It was founded in 1997 by a group of prominent Saudi Consultants to provide medical laboratory services to all private and public health care sectors. We are very pleased to provide high-quality medical services to the whole community in the Kingdom of Saudi Arabia.</div><div _ngcontent-ksr-c64="" class="text">We offer a broad range of routine and high complexity testing services used by the medical profession in the screening diagnosis, treatment follow-up, and treatment selection of several medical conditions. The company’s customers include government hospitals, government agencies, private hospitals, polyclinics independent physicians and physician groups, pharmaceutical companies, and other company firms.</div></div></div></div></div></section><section _ngcontent-ksr-c64="" class="funfacts-section pt-5 section-wide mvcsection"><div _ngcontent-ksr-c64="" class="auto-container"><div _ngcontent-ksr-c64="" class="fact-counter"><div _ngcontent-ksr-c64="" class="row"><div _ngcontent-ksr-c64="" class="column counter-column col-lg-3 col-sm-6 col-12 d-flex alig-items-stretch"><div _ngcontent-ksr-c64="" data-wow-delay=".3s" data-wow-duration="500ms" class="inner col-12 wow fadeInUp"><div _ngcontent-ksr-c64="" class="content"><div _ngcontent-ksr-c64="" class="icon-box"><div _ngcontent-ksr-c64="" class="icon"><img _ngcontent-ksr-c64="" src="./carousel1_files/users.svg" alt=""></div><div _ngcontent-ksr-c64="" class="counter-title">SATISFIED <br _ngcontent-ksr-c64=""> CUSTOMERS</div></div><div _ngcontent-ksr-c64="" class="count-outer count-box"><span _ngcontent-ksr-c64="" data-speed="3000" data-stop="2.0" class="count-text">1</span><span _ngcontent-ksr-c64="">M+</span></div></div></div></div><div _ngcontent-ksr-c64="" class="column counter-column col-lg-3 col-sm-6 col-12 d-flex alig-items-stretch"><div _ngcontent-ksr-c64="" data-wow-delay=".9s" data-wow-duration="1500ms" class="inner col-12 wow fadeInUp"><div _ngcontent-ksr-c64="" class="content"><div _ngcontent-ksr-c64="" class="icon-box"><div _ngcontent-ksr-c64="" class="icon"><img _ngcontent-ksr-c64="" src="./carousel1_files/service.svg" alt=""></div><div _ngcontent-ksr-c64="" class="counter-title"> Tests <br _ngcontent-ksr-c64=""> covered </div></div><div _ngcontent-ksr-c64="" class="count-outer count-box"><span _ngcontent-ksr-c64="" data-speed="3000" data-stop="1.5" class="count-text">1</span><span _ngcontent-ksr-c64="">K+</span></div></div></div></div><div _ngcontent-ksr-c64="" class="column counter-column col-lg-3 col-sm-6 col-12 d-flex alig-items-stretch"><div _ngcontent-ksr-c64="" data-wow-delay="1.2s" data-wow-duration="2000ms" class="inner col-12 wow fadeInUp"><div _ngcontent-ksr-c64="" class="content"><div _ngcontent-ksr-c64="" class="icon-box"><div _ngcontent-ksr-c64="" class="icon"><img _ngcontent-ksr-c64="" src="./carousel1_files/briefcase.svg" alt=""></div><div _ngcontent-ksr-c64="" class="counter-title"> Years of <br _ngcontent-ksr-c64=""> Experience <br _ngcontent-ksr-c64=""></div></div><div _ngcontent-ksr-c64="" class="count-outer count-box"><span _ngcontent-ksr-c64="" data-speed="3000" data-stop="24" class="count-text">25</span><span _ngcontent-ksr-c64="">Y</span></div></div></div></div><div _ngcontent-ksr-c64="" class="column counter-column col-lg-3 col-sm-6 col-12 d-flex alig-items-stretch"><div _ngcontent-ksr-c64="" data-wow-delay=".6s" data-wow-duration="1000ms" class="inner col-12 wow fadeInUp"><div _ngcontent-ksr-c64="" class="content"><div _ngcontent-ksr-c64="" class="icon-box"><div _ngcontent-ksr-c64="" class="icon"><img _ngcontent-ksr-c64="" src="./carousel1_files/reports.svg" alt=""></div><div _ngcontent-ksr-c64="" class="counter-title">Number of <br _ngcontent-ksr-c64=""> Branches</div></div><div _ngcontent-ksr-c64="" class="count-outer count-box"><span _ngcontent-ksr-c64="" data-speed="3000" data-stop="10.0" class="count-text">26</span><span _ngcontent-ksr-c64=""></span></div></div></div></div></div></div></div></section><section _ngcontent-ksr-c64="" class="funfacts-section-two style-two" style="background-image: url(assets/images/background/bg-9.jpg);"><div _ngcontent-ksr-c64="" class="auto-container"><div _ngcontent-ksr-c64="" class="fact-counter-two"><div _ngcontent-ksr-c64="" class="row"><div _ngcontent-ksr-c64="" class="column counter-column col-lg-4"><div _ngcontent-ksr-c64="" data-wow-delay="0ms" data-wow-duration="1500ms" class="inner wow fadeInLeft pl-0"><div _ngcontent-ksr-c64="" class="content"><div _ngcontent-ksr-c64="" class="count-outer count-box mb-4"><span _ngcontent-ksr-c64="" class="count-text">Mission</span></div><div _ngcontent-ksr-c64="" class="text"> Providing premium diagnostic medical laboratory services through high quality. </div></div></div></div><div _ngcontent-ksr-c64="" class="column counter-column col-lg-4"><div _ngcontent-ksr-c64="" data-wow-delay="0ms" data-wow-duration="1500ms" class="inner wow fadeInLeft pl-0"><div _ngcontent-ksr-c64="" class="content"><div _ngcontent-ksr-c64="" class="count-outer count-box mb-4"><span _ngcontent-ksr-c64="" class="count-text">Vision</span></div><div _ngcontent-ksr-c64="" class="text">To widen our scope of service throughout the Kingdom with high quality and process improvement.</div></div></div></div><div _ngcontent-ksr-c64="" class="column counter-column col-lg-4"><div _ngcontent-ksr-c64="" data-wow-delay="0ms" data-wow-duration="1500ms" class="inner wow fadeInLeft pl-0"><div _ngcontent-ksr-c64="" class="content"><div _ngcontent-ksr-c64="" class="count-outer count-box mb-4"><span _ngcontent-ksr-c64="" class="count-text">Core Values</span></div><div _ngcontent-ksr-c64="" class="text text-left row"><span _ngcontent-ksr-c64="" class="col-5"><i _ngcontent-ksr-c64="" class="far fa-dot-circle"></i> Safety</span><span _ngcontent-ksr-c64="" class="col-7"><i _ngcontent-ksr-c64="" class="far fa-dot-circle"></i> Quality</span><span _ngcontent-ksr-c64="" class="col-5"><i _ngcontent-ksr-c64="" class="far fa-dot-circle"></i> Loyalty</span><span _ngcontent-ksr-c64="" class="col-7"><i _ngcontent-ksr-c64="" class="far fa-dot-circle"></i> Efficiency</span><span _ngcontent-ksr-c64="" class="col-12"><i _ngcontent-ksr-c64="" class="far fa-dot-circle"></i> Process Improvements </span></div></div></div></div></div></div></div></section><section _ngcontent-ksr-c64="" class="services-section padt0" style="background-image: url(../../assets/images/background/bg-4-new.jpg);"><div _ngcontent-ksr-c64="" class="auto-container"><div _ngcontent-ksr-c64="" class="row m-0 align-items-center justify-content-between goalscnt"><div _ngcontent-ksr-c64="" class="col-lg-6 col-md-6"><img _ngcontent-ksr-c64="" src="./carousel1_files/goals.webp" alt=""></div><div _ngcontent-ksr-c64="" class="col-lg-6 col-md-6"><div _ngcontent-ksr-c64="" class="sec-title style-two goalSec uppercase"><h2 _ngcontent-ksr-c64=""> Our Goals </h2><div _ngcontent-ksr-c64="" class="text-decoration"><span _ngcontent-ksr-c64="" class="left"></span><span _ngcontent-ksr-c64="" class="right"></span></div><ul _ngcontent-ksr-c64="" class="text-justify"><li _ngcontent-ksr-c64=""><i _ngcontent-ksr-c64="" class="fal fa-check"></i> Expand patient outreach through innovation in the Kingdom of Saudi Arabia.</li><li _ngcontent-ksr-c64=""><i _ngcontent-ksr-c64="" class="fal fa-check"></i> Attaining local and international accreditations for all branches. </li><li _ngcontent-ksr-c64=""><i _ngcontent-ksr-c64="" class="fal fa-check"></i> Introduction of innovative tests, services and departments. </li><li _ngcontent-ksr-c64=""><i _ngcontent-ksr-c64="" class="fal fa-check"></i> To develop process improvement projects. </li><li _ngcontent-ksr-c64=""><i _ngcontent-ksr-c64="" class="fal fa-check"></i> Improvement of administrative, medical and technical team performance. </li></ul></div></div></div><div _ngcontent-ksr-c64="" class="row m-0 align-items-center justify-content-between whychoose"><div _ngcontent-ksr-c64="" class="sec-title style-two"><h4 _ngcontent-ksr-c64=""><span _ngcontent-ksr-c64="" class="flaticon-endless"></span> Best in Industry </h4><h2 _ngcontent-ksr-c64="">WHY CHOOSE US</h2><div _ngcontent-ksr-c64="" _ngcontent-lsx-c126="" class="text-decoration"><span _ngcontent-ksr-c64="" _ngcontent-lsx-c126="" class="left"></span><span _ngcontent-ksr-c64="" _ngcontent-lsx-c126="" class="right"></span></div><p _ngcontent-ksr-c64="" class="text-justify">We offer a broad range of routine and high complexity testing services used by the medical profession in the screening, diagnosis, treatment follow-up, and treatment selection of several medical conditions. The company’s customers include government hospitals, government agencies, private hospitals, polyclinics independent physicians and physician groups, pharmaceutical companies, and other company firms.</p></div></div><div _ngcontent-ksr-c64="" class="row align-items-stretch"><div _ngcontent-ksr-c64="" class="col-lg-3 col-md-6 service-block-one d-flex"><div _ngcontent-ksr-c64="" class="inner-box"><div _ngcontent-ksr-c64="" class="icon"><div _ngcontent-ksr-c64="" class="icon-inner"><i _ngcontent-ksr-c64="" class="fal fa-award"></i></div></div><h4 _ngcontent-ksr-c64="">High Quality <br _ngcontent-ksr-c64="">Quick Service</h4><div _ngcontent-ksr-c64="" class="text">Our lab’s employees strive always to provide our customers with the highest,possible quality and to serve them as quickly as it is possible. Our customers also can book,their appointment at a time that suits them.</div></div></div><div _ngcontent-ksr-c64="" class="col-lg-3 col-md-6 service-block-one d-flex"><div _ngcontent-ksr-c64="" class="inner-box"><div _ngcontent-ksr-c64="" class="icon"><div _ngcontent-ksr-c64="" class="icon-inner"><i _ngcontent-ksr-c64="" class="fal fa-vial"></i></div></div><h4 _ngcontent-ksr-c64="">Sample Collection <br _ngcontent-ksr-c64="">from Your Location</h4><div _ngcontent-ksr-c64="" class="text">The Home Service provides a home sampling service without the need to visit the medical laboratory. Please contact us through phone or whatsapp at 8001240412 for reservations. </div></div></div><div _ngcontent-ksr-c64="" class="col-lg-3 col-md-6 service-block-one d-flex"><div _ngcontent-ksr-c64="" class="inner-box"><div _ngcontent-ksr-c64="" class="icon"><div _ngcontent-ksr-c64="" class="icon-inner"><i _ngcontent-ksr-c64="" class="fal fa-fingerprint"></i></div></div><h4 _ngcontent-ksr-c64="">Reports on <br _ngcontent-ksr-c64=""> Your Fingertips</h4><div _ngcontent-ksr-c64="" class="text">Find and print your test results online whenever you want them and wherever,you are, by a touch of your fingertips. </div></div></div><div _ngcontent-ksr-c64="" class="col-lg-3 col-md-6 service-block-one d-flex"><div _ngcontent-ksr-c64="" class="inner-box"><div _ngcontent-ksr-c64="" class="icon"><div _ngcontent-ksr-c64="" class="icon-inner"><i _ngcontent-ksr-c64="" class="fal fa-tags"></i></div></div><h4 _ngcontent-ksr-c64="">Discounted <br _ngcontent-ksr-c64=""> Prices</h4><div _ngcontent-ksr-c64="" class="text"> Our prices are affordable and we offer frequent offers on the profiles tests.</div></div></div></div></div></section><section _ngcontent-ksr-c64="" class="about-section-five ourpartners" style="background-image: url(assets/images/background/bg18.jpg);"><div _ngcontent-ksr-c64="" class="auto-container"><div _ngcontent-ksr-c64="" class="row"><div _ngcontent-ksr-c64="" class="owl-slider"><div _ngcontent-ksr-c64="" id="carousel" class="owl-carousel"><div _ngcontent-ksr-c64="" class="item"><img _ngcontent-ksr-c64="" data-src="https://i.pinimg.com/originals/84/67/26/846726299dc5abbeb5d60016f0fb32e9.jpg" alt="" class="owl-lazy"></div><div _ngcontent-ksr-c64="" class="item"><img _ngcontent-ksr-c64="" data-src="http://desktop-backgrounds-org.s3.amazonaws.com/400x300/twitter-nature-high-definition.jpg" alt="" class="owl-lazy"></div><div _ngcontent-ksr-c64="" class="item"><img _ngcontent-ksr-c64="" data-src="https://i.pinimg.com/originals/84/67/26/846726299dc5abbeb5d60016f0fb32e9.jpg" alt="" class="owl-lazy"></div><div _ngcontent-ksr-c64="" class="item"><img _ngcontent-ksr-c64="" data-src="http://desktop-backgrounds-org.s3.amazonaws.com/400x300/twitter-nature-high-definition.jpg" alt="" class="owl-lazy"></div><div _ngcontent-ksr-c64="" class="item"><img _ngcontent-ksr-c64="" data-src="https://i.pinimg.com/originals/84/67/26/846726299dc5abbeb5d60016f0fb32e9.jpg" alt="" class="owl-lazy"></div><div _ngcontent-ksr-c64="" class="item"><img _ngcontent-ksr-c64="" data-src="http://desktop-backgrounds-org.s3.amazonaws.com/400x300/twitter-nature-high-definition.jpg" alt="" class="owl-lazy"></div><div _ngcontent-ksr-c64="" class="item"><img _ngcontent-ksr-c64="" data-src="https://i.pinimg.com/originals/84/67/26/846726299dc5abbeb5d60016f0fb32e9.jpg" alt="" class="owl-lazy"></div><div _ngcontent-ksr-c64="" class="item"><img _ngcontent-ksr-c64="" data-src="http://desktop-backgrounds-org.s3.amazonaws.com/400x300/twitter-nature-high-definition.jpg" alt="" class="owl-lazy"></div><div _ngcontent-ksr-c64="" class="item"><img _ngcontent-ksr-c64="" data-src="https://i.pinimg.com/originals/84/67/26/846726299dc5abbeb5d60016f0fb32e9.jpg" alt="" class="owl-lazy"></div><div _ngcontent-ksr-c64="" class="item"><img _ngcontent-ksr-c64="" data-src="http://desktop-backgrounds-org.s3.amazonaws.com/400x300/twitter-nature-high-definition.jpg" alt="" class="owl-lazy"></div></div></div></div></div></section><section _ngcontent-ksr-c64="" class="why-choose-us-section section-wide"><div _ngcontent-ksr-c64="" class="pattern" style="background-image: url(assets/images/shape/pattern-3.png);"></div><div _ngcontent-ksr-c64="" class="auto-container"><div _ngcontent-ksr-c64="" class="row"><div _ngcontent-ksr-c64="" class="col-lg-5 category-images"><ngb-carousel _ngcontent-ksr-c64="" tabindex="0" class="carousel slide" style="height: 100%; display: block;" aria-activedescendant="slide-ngb-slide-31"><ol role="tablist" class="carousel-indicators sr-only"><li role="tab" class="" aria-labelledby="slide-ngb-slide-29" aria-controls="slide-ngb-slide-29" aria-selected="false"></li><li role="tab" aria-labelledby="slide-ngb-slide-30" aria-controls="slide-ngb-slide-30" aria-selected="false" class=""></li><li role="tab" aria-labelledby="slide-ngb-slide-31" aria-controls="slide-ngb-slide-31" aria-selected="true" class="active"></li><li role="tab" aria-labelledby="slide-ngb-slide-32" aria-controls="slide-ngb-slide-32" aria-selected="false" class=""></li><li role="tab" aria-labelledby="slide-ngb-slide-33" aria-controls="slide-ngb-slide-33" aria-selected="false" class=""></li><li role="tab" aria-labelledby="slide-ngb-slide-34" aria-controls="slide-ngb-slide-34" aria-selected="false" class=""></li><li role="tab" aria-labelledby="slide-ngb-slide-35" aria-controls="slide-ngb-slide-35" aria-selected="false" class=""></li><!----></ol><div class="carousel-inner"><div role="tabpanel" class="carousel-item" id="slide-ngb-slide-29"><span class="sr-only"> Slide 1 of 7 </span><div _ngcontent-ksr-c64="" class="picsum-img-wrapper" style="height: inherit;"><div _ngcontent-ksr-c64="" class="side-image"><img _ngcontent-ksr-c64="" src="./carousel1_files/Liver.png" alt="" class="w-100"></div></div><!----></div><div role="tabpanel" class="carousel-item" id="slide-ngb-slide-30"><span class="sr-only"> Slide 2 of 7 </span><div _ngcontent-ksr-c64="" class="picsum-img-wrapper" style="height: inherit;"><div _ngcontent-ksr-c64="" class="side-image"><img _ngcontent-ksr-c64="" src="./carousel1_files/Kidney.png" alt="" class="w-100"></div></div><!----></div><div role="tabpanel" class="carousel-item active" id="slide-ngb-slide-31"><span class="sr-only"> Slide 3 of 7 </span><div _ngcontent-ksr-c64="" class="picsum-img-wrapper" style="height: inherit;"><div _ngcontent-ksr-c64="" class="side-image"><img _ngcontent-ksr-c64="" src="./carousel1_files/Lungs.png" alt="" class="w-100"></div></div><!----></div><div role="tabpanel" class="carousel-item" id="slide-ngb-slide-32"><span class="sr-only"> Slide 4 of 7 </span><div _ngcontent-ksr-c64="" class="picsum-img-wrapper" style="height: inherit;"><div _ngcontent-ksr-c64="" class="side-image"><img _ngcontent-ksr-c64="" src="./carousel1_files/Small-and-Large-intesten.png" alt="" class="w-100"></div></div><!----></div><div role="tabpanel" class="carousel-item" id="slide-ngb-slide-33"><span class="sr-only"> Slide 5 of 7 </span><div _ngcontent-ksr-c64="" class="picsum-img-wrapper" style="height: inherit;"><div _ngcontent-ksr-c64="" class="side-image"><img _ngcontent-ksr-c64="" src="./carousel1_files/Spleen.png" alt="" class="w-100"></div></div><!----></div><div role="tabpanel" class="carousel-item" id="slide-ngb-slide-34"><span class="sr-only"> Slide 6 of 7 </span><div _ngcontent-ksr-c64="" class="picsum-img-wrapper" style="height: inherit;"><div _ngcontent-ksr-c64="" class="side-image"><img _ngcontent-ksr-c64="" src="./carousel1_files/Stomack.png" alt="" class="w-100"></div></div><!----></div><div role="tabpanel" class="carousel-item" id="slide-ngb-slide-35"><span class="sr-only"> Slide 7 of 7 </span><div _ngcontent-ksr-c64="" class="picsum-img-wrapper" style="height: inherit;"><div _ngcontent-ksr-c64="" class="side-image"><img _ngcontent-ksr-c64="" src="./carousel1_files/Heart.png" alt="" class="w-100"></div></div><!----></div><!----></div><!----><!----></ngb-carousel></div><div _ngcontent-ksr-c64="" class="col-lg-7 order-lg-2"><div _ngcontent-ksr-c64="" class="sec-title light mb-0"><h2 _ngcontent-ksr-c64="">Choose your Tests Specifically</h2><div _ngcontent-ksr-c64="" class="text-decoration"><span _ngcontent-ksr-c64="" class="left"></span><span _ngcontent-ksr-c64="" class="right"></span></div></div><div _ngcontent-ksr-c64="" class="row category_height"><div _ngcontent-ksr-c64="" data-wow-delay=".3s" data-wow-duration="500ms" class="col-sm-6 d-flex align-items-stretch service-block-five"><a _ngcontent-ksr-c64="" class="w-100" href="https://www.delta-medlab.com/category-test-list/63de0ca84106940811f1a03e"><div _ngcontent-ksr-c64="" class="inner-box"><div _ngcontent-ksr-c64="" class="content-box d-flex align-items-center wow fadeInUp"><div _ngcontent-ksr-c64="" class="cat-icon"><img _ngcontent-ksr-c64="" class="w-100" src="./carousel1_files/1675496616518-Anemia_1641379422954.jpg"></div><div _ngcontent-ksr-c64=""><h4 _ngcontent-ksr-c64="">Anemia </h4><!----><!----></div></div></div></a></div><div _ngcontent-ksr-c64="" data-wow-delay=".3s" data-wow-duration="500ms" class="col-sm-6 d-flex align-items-stretch service-block-five"><a _ngcontent-ksr-c64="" class="w-100" href="https://www.delta-medlab.com/category-test-list/63de0cbeb34f32081784a337"><div _ngcontent-ksr-c64="" class="inner-box"><div _ngcontent-ksr-c64="" class="content-box d-flex align-items-center wow fadeInUp"><div _ngcontent-ksr-c64="" class="cat-icon"><img _ngcontent-ksr-c64="" class="w-100" src="./carousel1_files/1675496638434-Diabetes_1641379886916.jpg"></div><div _ngcontent-ksr-c64=""><h4 _ngcontent-ksr-c64="">Diabetes </h4><!----><!----></div></div></div></a></div><div _ngcontent-ksr-c64="" data-wow-delay=".3s" data-wow-duration="500ms" class="col-sm-6 d-flex align-items-stretch service-block-five"><a _ngcontent-ksr-c64="" class="w-100" href="https://www.delta-medlab.com/category-test-list/63de0cd4b34f32081784a35e"><div _ngcontent-ksr-c64="" class="inner-box"><div _ngcontent-ksr-c64="" class="content-box d-flex align-items-center wow fadeInUp"><div _ngcontent-ksr-c64="" class="cat-icon"><img _ngcontent-ksr-c64="" class="w-100" src="./carousel1_files/1675496660133-Gastric_Sleeve - Keto Diet_1641379840993.jpg"></div><div _ngcontent-ksr-c64=""><h4 _ngcontent-ksr-c64="">Gastric Sleeve </h4><!----><!----></div></div></div></a></div><div _ngcontent-ksr-c64="" data-wow-delay=".3s" data-wow-duration="500ms" class="col-sm-6 d-flex align-items-stretch service-block-five"><a _ngcontent-ksr-c64="" class="w-100" href="https://www.delta-medlab.com/category-test-list/63de0ce8b34f32081784a383"><div _ngcontent-ksr-c64="" class="inner-box"><div _ngcontent-ksr-c64="" class="content-box d-flex align-items-center wow fadeInUp"><div _ngcontent-ksr-c64="" class="cat-icon"><img _ngcontent-ksr-c64="" class="w-100" src="./carousel1_files/1675496680921-Stomach_1641379085189.jpg"></div><div _ngcontent-ksr-c64=""><h4 _ngcontent-ksr-c64="">Stomach </h4><!----><!----></div></div></div></a></div><div _ngcontent-ksr-c64="" data-wow-delay=".3s" data-wow-duration="500ms" class="col-sm-6 d-flex align-items-stretch service-block-five"><a _ngcontent-ksr-c64="" class="w-100" href="https://www.delta-medlab.com/category-test-list/63de0cfe4106940811f1a08e"><div _ngcontent-ksr-c64="" class="inner-box"><div _ngcontent-ksr-c64="" class="content-box d-flex align-items-center wow fadeInUp"><div _ngcontent-ksr-c64="" class="cat-icon"><img _ngcontent-ksr-c64="" class="w-100" src="./carousel1_files/1675496702838-Kidney_1641378614385.jpg"></div><div _ngcontent-ksr-c64=""><h4 _ngcontent-ksr-c64="">Kidney </h4><!----><!----></div></div></div></a></div><div _ngcontent-ksr-c64="" data-wow-delay=".3s" data-wow-duration="500ms" class="col-sm-6 d-flex align-items-stretch service-block-five"><a _ngcontent-ksr-c64="" class="w-100" href="https://www.delta-medlab.com/category-test-list/63de0d13b34f32081784a3c8"><div _ngcontent-ksr-c64="" class="inner-box"><div _ngcontent-ksr-c64="" class="content-box d-flex align-items-center wow fadeInUp"><div _ngcontent-ksr-c64="" class="cat-icon"><img _ngcontent-ksr-c64="" class="w-100" src="./carousel1_files/1675496723836-Liver_1641378734440.jpg"></div><div _ngcontent-ksr-c64=""><h4 _ngcontent-ksr-c64="">Liver </h4><!----><!----></div></div></div></a></div><div _ngcontent-ksr-c64="" data-wow-delay=".3s" data-wow-duration="500ms" class="col-sm-6 d-flex align-items-stretch service-block-five"><a _ngcontent-ksr-c64="" class="w-100" href="https://www.delta-medlab.com/category-test-list/63de0d36b34f32081784a3e8"><div _ngcontent-ksr-c64="" class="inner-box"><div _ngcontent-ksr-c64="" class="content-box d-flex align-items-center wow fadeInUp"><div _ngcontent-ksr-c64="" class="cat-icon"><img _ngcontent-ksr-c64="" class="w-100" src="./carousel1_files/1675496758646-Heart_1641379802687.jpg"></div><div _ngcontent-ksr-c64=""><h4 _ngcontent-ksr-c64="">Heart </h4><!----><!----></div></div></div></a></div><div _ngcontent-ksr-c64="" data-wow-delay=".3s" data-wow-duration="500ms" class="col-sm-6 d-flex align-items-stretch service-block-five"><a _ngcontent-ksr-c64="" class="w-100" href="https://www.delta-medlab.com/category-test-list/63de0d4f4106940811f1a145"><div _ngcontent-ksr-c64="" class="inner-box"><div _ngcontent-ksr-c64="" class="content-box d-flex align-items-center wow fadeInUp"><div _ngcontent-ksr-c64="" class="cat-icon"><img _ngcontent-ksr-c64="" class="w-100" src="./carousel1_files/1675496783940-Vitamins_1655277847388.jpg"></div><div _ngcontent-ksr-c64=""><h4 _ngcontent-ksr-c64="">Vitamins </h4><!----><!----></div></div></div></a></div><div _ngcontent-ksr-c64="" data-wow-delay=".3s" data-wow-duration="500ms" class="col-sm-6 d-flex align-items-stretch service-block-five"><a _ngcontent-ksr-c64="" class="w-100" href="https://www.delta-medlab.com/category-test-list/63de0d7a4106940811f1a17d"><div _ngcontent-ksr-c64="" class="inner-box"><div _ngcontent-ksr-c64="" class="content-box d-flex align-items-center wow fadeInUp"><div _ngcontent-ksr-c64="" class="cat-icon"><img _ngcontent-ksr-c64="" class="w-100" src="./carousel1_files/1675496826031-Electrolytes_1641383094587.jpg"></div><div _ngcontent-ksr-c64=""><h4 _ngcontent-ksr-c64="">Electrolytes &amp; Minerals </h4><!----><!----></div></div></div></a></div><div _ngcontent-ksr-c64="" data-wow-delay=".3s" data-wow-duration="500ms" class="col-sm-6 d-flex align-items-stretch service-block-five"><a _ngcontent-ksr-c64="" class="w-100" href="https://www.delta-medlab.com/category-test-list/63de0d8eb34f32081784a459"><div _ngcontent-ksr-c64="" class="inner-box"><div _ngcontent-ksr-c64="" class="content-box d-flex align-items-center wow fadeInUp"><div _ngcontent-ksr-c64="" class="cat-icon"><img _ngcontent-ksr-c64="" class="w-100" src="./carousel1_files/1675496846806-Hair_1641379252277.jpg"></div><div _ngcontent-ksr-c64=""><h4 _ngcontent-ksr-c64="">Hair </h4><!----><!----></div></div></div></a></div><div _ngcontent-ksr-c64="" data-wow-delay=".3s" data-wow-duration="500ms" class="col-sm-6 d-flex align-items-stretch service-block-five"><a _ngcontent-ksr-c64="" class="w-100" href="https://www.delta-medlab.com/category-test-list/63de0e0bb34f32081784a550"><div _ngcontent-ksr-c64="" class="inner-box"><div _ngcontent-ksr-c64="" class="content-box d-flex align-items-center wow fadeInUp"><div _ngcontent-ksr-c64="" class="cat-icon"><img _ngcontent-ksr-c64="" class="w-100" src="./carousel1_files/1675496971129-Lung_1641378781077.jpg"></div><div _ngcontent-ksr-c64=""><h4 _ngcontent-ksr-c64="">Lung </h4><!----><!----></div></div></div></a></div><div _ngcontent-ksr-c64="" data-wow-delay=".3s" data-wow-duration="500ms" class="col-sm-6 d-flex align-items-stretch service-block-five"><a _ngcontent-ksr-c64="" class="w-100" href="https://www.delta-medlab.com/category-test-list/63de0e2b4106940811f1a2ad"><div _ngcontent-ksr-c64="" class="inner-box"><div _ngcontent-ksr-c64="" class="content-box d-flex align-items-center wow fadeInUp"><div _ngcontent-ksr-c64="" class="cat-icon"><img _ngcontent-ksr-c64="" class="w-100" src="./carousel1_files/1675497003179-Lipid_1641379958185.jpg"></div><div _ngcontent-ksr-c64=""><h4 _ngcontent-ksr-c64="">Lipid </h4><!----><!----></div></div></div></a></div><div _ngcontent-ksr-c64="" data-wow-delay=".3s" data-wow-duration="500ms" class="col-sm-6 d-flex align-items-stretch service-block-five"><a _ngcontent-ksr-c64="" class="w-100" href="https://www.delta-medlab.com/category-test-list/63de0e444106940811f1a2da"><div _ngcontent-ksr-c64="" class="inner-box"><div _ngcontent-ksr-c64="" class="content-box d-flex align-items-center wow fadeInUp"><div _ngcontent-ksr-c64="" class="cat-icon"><img _ngcontent-ksr-c64="" class="w-100" src="./carousel1_files/1675497028537-Fertility-Male_1641379752063.jpg"></div><div _ngcontent-ksr-c64=""><h4 _ngcontent-ksr-c64="">Fertility - Male </h4><!----><!----></div></div></div></a></div><div _ngcontent-ksr-c64="" data-wow-delay=".3s" data-wow-duration="500ms" class="col-sm-6 d-flex align-items-stretch service-block-five"><a _ngcontent-ksr-c64="" class="w-100" href="https://www.delta-medlab.com/category-test-list/63de0e5fb34f32081784a5f8"><div _ngcontent-ksr-c64="" class="inner-box"><div _ngcontent-ksr-c64="" class="content-box d-flex align-items-center wow fadeInUp"><div _ngcontent-ksr-c64="" class="cat-icon"><img _ngcontent-ksr-c64="" class="w-100" src="./carousel1_files/1675497055190-Fertility_- Female_1641379698893.jpg"></div><div _ngcontent-ksr-c64=""><h4 _ngcontent-ksr-c64="">Fertility - Female </h4><!----><!----></div></div></div></a></div><div _ngcontent-ksr-c64="" data-wow-delay=".3s" data-wow-duration="500ms" class="col-sm-6 d-flex align-items-stretch service-block-five"><a _ngcontent-ksr-c64="" class="w-100" href="https://www.delta-medlab.com/category-test-list/63de0e764106940811f1a32f"><div _ngcontent-ksr-c64="" class="inner-box"><div _ngcontent-ksr-c64="" class="content-box d-flex align-items-center wow fadeInUp"><div _ngcontent-ksr-c64="" class="cat-icon"><img _ngcontent-ksr-c64="" class="w-100" src="./carousel1_files/1675497078652-Immune_System_1641379386042.jpg"></div><div _ngcontent-ksr-c64=""><h4 _ngcontent-ksr-c64="">Immune System </h4><!----><!----></div></div></div></a></div><div _ngcontent-ksr-c64="" data-wow-delay=".3s" data-wow-duration="500ms" class="col-sm-6 d-flex align-items-stretch service-block-five"><a _ngcontent-ksr-c64="" class="w-100" href="https://www.delta-medlab.com/category-test-list/63de0f6c4106940811f1a4ba"><div _ngcontent-ksr-c64="" class="inner-box"><div _ngcontent-ksr-c64="" class="content-box d-flex align-items-center wow fadeInUp"><div _ngcontent-ksr-c64="" class="cat-icon"><img _ngcontent-ksr-c64="" class="w-100" src="./carousel1_files/1675497324403-Musculoskeletal_1641379220301.jpg"></div><div _ngcontent-ksr-c64=""><h4 _ngcontent-ksr-c64="">Musculoskeletal </h4><!----><!----></div></div></div></a></div><div _ngcontent-ksr-c64="" data-wow-delay=".3s" data-wow-duration="500ms" class="col-sm-6 d-flex align-items-stretch service-block-five"><a _ngcontent-ksr-c64="" class="w-100" href="https://www.delta-medlab.com/category-test-list/63de0f88b34f32081784a73c"><div _ngcontent-ksr-c64="" class="inner-box"><div _ngcontent-ksr-c64="" class="content-box d-flex align-items-center wow fadeInUp"><div _ngcontent-ksr-c64="" class="cat-icon"><img _ngcontent-ksr-c64="" class="w-100" src="./carousel1_files/1675497352362-Central_Nervous System_1641379334570.jpg"></div><div _ngcontent-ksr-c64=""><h4 _ngcontent-ksr-c64="">Central Nervous System </h4><!----><!----></div></div></div></a></div><div _ngcontent-ksr-c64="" data-wow-delay=".3s" data-wow-duration="500ms" class="col-sm-6 d-flex align-items-stretch service-block-five"><a _ngcontent-ksr-c64="" class="w-100" href="https://www.delta-medlab.com/category-test-list/63de0faab34f32081784a76d"><div _ngcontent-ksr-c64="" class="inner-box"><div _ngcontent-ksr-c64="" class="content-box d-flex align-items-center wow fadeInUp"><div _ngcontent-ksr-c64="" class="cat-icon"><img _ngcontent-ksr-c64="" class="w-100" src="./carousel1_files/1675497386563-Skin_1641379924539.jpg"></div><div _ngcontent-ksr-c64=""><h4 _ngcontent-ksr-c64="">Skin </h4><!----><!----></div></div></div></a></div><div _ngcontent-ksr-c64="" data-wow-delay=".3s" data-wow-duration="500ms" class="col-sm-6 d-flex align-items-stretch service-block-five"><a _ngcontent-ksr-c64="" class="w-100" href="https://www.delta-medlab.com/category-test-list/63de0fe24106940811f1a58c"><div _ngcontent-ksr-c64="" class="inner-box"><div _ngcontent-ksr-c64="" class="content-box d-flex align-items-center wow fadeInUp"><div _ngcontent-ksr-c64="" class="cat-icon"><img _ngcontent-ksr-c64="" class="w-100" src="./carousel1_files/1675497442584-Sexually_Transmitted Diseases_1641379532867.jpg"></div><div _ngcontent-ksr-c64=""><h4 _ngcontent-ksr-c64="">Sexually Transmitted Diseases </h4><!----><!----></div></div></div></a></div><div _ngcontent-ksr-c64="" data-wow-delay=".3s" data-wow-duration="500ms" class="col-sm-6 d-flex align-items-stretch service-block-five"><a _ngcontent-ksr-c64="" class="w-100" href="https://www.delta-medlab.com/category-test-list/63dfc1bca6b44659c26467c1"><div _ngcontent-ksr-c64="" class="inner-box"><div _ngcontent-ksr-c64="" class="content-box d-flex align-items-center wow fadeInUp"><div _ngcontent-ksr-c64="" class="cat-icon"><img _ngcontent-ksr-c64="" class="w-100" src="./carousel1_files/1675608508261-Untitled-1.png"></div><div _ngcontent-ksr-c64=""><h4 _ngcontent-ksr-c64="">Others </h4><!----><!----></div></div></div></a></div><!----></div></div></div></div></section><section _ngcontent-ksr-c64="" class="features-section-two my-1" style="background-image: url(assets/images/background/bg-9.jpg);"><div _ngcontent-ksr-c64="" class="auto-container"><div _ngcontent-ksr-c64="" class="row"><div _ngcontent-ksr-c64="" class="col-lg-6 pr-5"><div _ngcontent-ksr-c64="" class="sec-title style-two"><h2 _ngcontent-ksr-c64="" class="text-white">Our <br _ngcontent-ksr-c64=""> Certifications</h2></div><div _ngcontent-ksr-c64="" class="content-block"><div _ngcontent-ksr-c64="" class="image"><img _ngcontent-ksr-c64="" src="./carousel1_files/award.png" alt=""></div><div _ngcontent-ksr-c64="" class="text-white text-justify"><p _ngcontent-ksr-c64="" id="certificate_body_p">Delta Medical Laboratories aspire to offer high-quality testing following national and international accreditation guidelines including the College of American Pathologists (CAP) and Clinical and Laboratory Standards Institute (CLSI). The laboratory is currently accredited by the College of American Pathologists (CAP) and the International Organization for Standardization 9001:2015 (ISO 9001:2015) that sets out the requirements for the quality management system. <br _ngcontent-ksr-c64=""><span _ngcontent-ksr-c64="" class="en-float"></span><br _ngcontent-ksr-c64=""><span _ngcontent-ksr-c64="" class="en-float"></span><br _ngcontent-ksr-c64=""><span _ngcontent-ksr-c64="" class="ar-sp"></span><br _ngcontent-ksr-c64=""><span _ngcontent-ksr-c64="" class="en-float"> </span></p></div><div _ngcontent-ksr-c64="" class="link-btn"><a _ngcontent-ksr-c64="" routerlink="/certificates" class="theme-btn btn-style-one" href="https://www.delta-medlab.com/certificates"><span _ngcontent-ksr-c64="" class="btn-title">Read More</span></a></div></div></div><div _ngcontent-ksr-c64="" class="col-lg-6"><div _ngcontent-ksr-c64="" class="row"><div _ngcontent-ksr-c64="" data-wow-delay=".5s" data-wow-duration="500ms" class="feature-block-three col-sm-6 wow fadeInUp"><div _ngcontent-ksr-c64="" class="inner-box w-100"><div _ngcontent-ksr-c64="" class="lower-content d-flex flex-column"><div _ngcontent-ksr-c64="" class="icon">CBAHI</div><h4 _ngcontent-ksr-c64="" class="accredH"><img _ngcontent-ksr-c64="" src="./carousel1_files/CBAHI.png" width="200"></h4><a _ngcontent-ksr-c64="" routerlink="/certificates" class="read-more-link" href="https://www.delta-medlab.com/certificates">Read More</a></div><div _ngcontent-ksr-c64="" class="overlay"><div _ngcontent-ksr-c64="" class="d-flex flex-column"><div _ngcontent-ksr-c64="" class="text">CBAHI Accreditation satisfies the regulations, of the ministry of health in Saudi Arabia</div><a _ngcontent-ksr-c64="" routerlink="/certificates" class="read-more-link" href="https://www.delta-medlab.com/certificates">Read More</a></div></div></div></div><div _ngcontent-ksr-c64="" data-wow-delay="1s" data-wow-duration="500ms" class="feature-block-three col-sm-6 wow fadeInUp"><div _ngcontent-ksr-c64="" class="inner-box w-100"><div _ngcontent-ksr-c64="" class="lower-content d-flex flex-column"><div _ngcontent-ksr-c64="" class="icon">CAP</div><h4 _ngcontent-ksr-c64="" class="accredH"><img _ngcontent-ksr-c64="" src="./carousel1_files/CAP-Logo.png" width="110"></h4><a _ngcontent-ksr-c64="" routerlink="/certificates" class="read-more-link" href="https://www.delta-medlab.com/certificates">Read More</a></div><div _ngcontent-ksr-c64="" class="overlay"><div _ngcontent-ksr-c64="" class="d-flex flex-column"><div _ngcontent-ksr-c64="" class="text"><span _ngcontent-ksr-c64="">  </span><br _ngcontent-ksr-c64=""> CAP Laboratory Accreditation helps laboratories maintain,accuracy of test resultsand ensure accurate patient diagnosis. </div><a _ngcontent-ksr-c64="" routerlink="/certificates" class="read-more-link" href="https://www.delta-medlab.com/certificates">Read More</a></div></div></div></div><div _ngcontent-ksr-c64="" data-wow-delay="1s" data-wow-duration="500ms" class="feature-block-three col-sm-6 wow fadeInUp"><div _ngcontent-ksr-c64="" class="inner-box w-100"><div _ngcontent-ksr-c64="" class="lower-content d-flex flex-column"><div _ngcontent-ksr-c64="" class="icon">JCI</div><h4 _ngcontent-ksr-c64="" class="accredH"><img _ngcontent-ksr-c64="" src="./carousel1_files/JCI.png" width="100"></h4><a _ngcontent-ksr-c64="" routerlink="/certificates" class="read-more-link" href="https://www.delta-medlab.com/certificates">Read More</a></div><div _ngcontent-ksr-c64="" class="overlay"><div _ngcontent-ksr-c64="" class="d-flex flex-column"><div _ngcontent-ksr-c64="" class="text"><span _ngcontent-ksr-c64=""> Joint Commission International (JCI) accredits and certifies health care,organizations and programs across the globe. </span><br _ngcontent-ksr-c64="">  </div><a _ngcontent-ksr-c64="" routerlink="/certificates" class="read-more-link" href="https://www.delta-medlab.com/certificates">Read More</a></div></div></div></div><div _ngcontent-ksr-c64="" data-wow-delay="1s" data-wow-duration="500ms" class="feature-block-three col-sm-6 wow fadeInUp"><div _ngcontent-ksr-c64="" class="inner-box w-100"><div _ngcontent-ksr-c64="" class="lower-content d-flex flex-column"><div _ngcontent-ksr-c64="" class="icon">ISO 9001:2015</div><h4 _ngcontent-ksr-c64="" class="accredH"><img _ngcontent-ksr-c64="" src="./carousel1_files/ISO.png" width="100"></h4><a _ngcontent-ksr-c64="" routerlink="/certificates" class="read-more-link" href="https://www.delta-medlab.com/certificates">Read More</a></div><div _ngcontent-ksr-c64="" class="overlay"><div _ngcontent-ksr-c64="" class="d-flex flex-column"><div _ngcontent-ksr-c64="" class="text"> ISO 9001:2015 is an international standard dedicated to Quality Management Systems (QMS) <br _ngcontent-ksr-c64=""><span _ngcontent-ksr-c64="">  </span></div><a _ngcontent-ksr-c64="" routerlink="/certificates" class="read-more-link" href="https://www.delta-medlab.com/certificates">Read More</a></div></div></div></div></div></div></div></div></section><section _ngcontent-ksr-c64="" class="projects-section-three"><div _ngcontent-ksr-c64="" class="auto-container"><div _ngcontent-ksr-c64="" class="sec-title style-four text-center"><h2 _ngcontent-ksr-c64="">Our Departments <br _ngcontent-ksr-c64=""></h2><span _ngcontent-ksr-c64="" class="text-decoration-three"></span></div><div _ngcontent-ksr-c64="" class="row isotope-block"><div _ngcontent-ksr-c64="" class="project-block-three col-lg-3 col-md-6"><a _ngcontent-ksr-c64="" routerlink="/glimps" href="https://www.delta-medlab.com/glimps"><div _ngcontent-ksr-c64="" class="inner-box"><div _ngcontent-ksr-c64="" class="image"><img _ngcontent-ksr-c64="" src="./carousel1_files/serv-1.jpg" alt=""></div><div _ngcontent-ksr-c64="" class="overlay-content"><div _ngcontent-ksr-c64="" class="content"><div _ngcontent-ksr-c64="" class="category">Anatomic Pathology and </div><div _ngcontent-ksr-c64="" class="text"> Cytology </div></div><div _ngcontent-ksr-c64="" class="link-btn"><a _ngcontent-ksr-c64="" routerlink="/glimps" class="theme-btn" href="https://www.delta-medlab.com/glimps"><span _ngcontent-ksr-c64="" class="flaticon-right-arrow"></span></a></div></div></div></a></div><div _ngcontent-ksr-c64="" class="project-block-three col-lg-3 col-md-6"><a _ngcontent-ksr-c64="" routerlink="/glimps" href="https://www.delta-medlab.com/glimps"><div _ngcontent-ksr-c64="" class="inner-box"><div _ngcontent-ksr-c64="" class="image"><img _ngcontent-ksr-c64="" src="./carousel1_files/serv-2.jpg" alt=""></div><div _ngcontent-ksr-c64="" class="overlay-content"><div _ngcontent-ksr-c64="" class="content"><div _ngcontent-ksr-c64="" class="category">Microbiology</div></div><div _ngcontent-ksr-c64="" class="link-btn"><a _ngcontent-ksr-c64="" routerlink="/glimps" class="theme-btn" href="https://www.delta-medlab.com/glimps"><span _ngcontent-ksr-c64="" class="flaticon-right-arrow"></span></a></div></div></div></a></div><div _ngcontent-ksr-c64="" class="project-block-three col-lg-3 col-md-6"><a _ngcontent-ksr-c64="" routerlink="/glimps" href="https://www.delta-medlab.com/glimps"><div _ngcontent-ksr-c64="" class="inner-box"><div _ngcontent-ksr-c64="" class="image"><img _ngcontent-ksr-c64="" src="./carousel1_files/serv-3.jpg" alt=""></div><div _ngcontent-ksr-c64="" class="overlay-content"><div _ngcontent-ksr-c64="" class="content"><div _ngcontent-ksr-c64="" class="category">Clinical Chemistry</div></div><div _ngcontent-ksr-c64="" class="link-btn"><a _ngcontent-ksr-c64="" routerlink="/glimps" class="theme-btn" href="https://www.delta-medlab.com/glimps"><span _ngcontent-ksr-c64="" class="flaticon-right-arrow"></span></a></div></div></div></a></div><div _ngcontent-ksr-c64="" class="project-block-three col-lg-3 col-md-6"><a _ngcontent-ksr-c64="" routerlink="/glimps" href="https://www.delta-medlab.com/glimps"><div _ngcontent-ksr-c64="" class="inner-box"><div _ngcontent-ksr-c64="" class="image"><img _ngcontent-ksr-c64="" src="./carousel1_files/serv-4.jpg" alt=""></div><div _ngcontent-ksr-c64="" class="overlay-content"><div _ngcontent-ksr-c64="" class="content"><div _ngcontent-ksr-c64="" class="category">Hematology</div></div><div _ngcontent-ksr-c64="" class="link-btn"><a _ngcontent-ksr-c64="" routerlink="/glimps" class="theme-btn" href="https://www.delta-medlab.com/glimps"><span _ngcontent-ksr-c64="" class="flaticon-right-arrow"></span></a></div></div></div></a></div><div _ngcontent-ksr-c64="" class="project-block-three col-lg-3 col-md-6"><a _ngcontent-ksr-c64="" routerlink="/glimps" href="https://www.delta-medlab.com/glimps"><div _ngcontent-ksr-c64="" class="inner-box"><div _ngcontent-ksr-c64="" class="image"><img _ngcontent-ksr-c64="" src="./carousel1_files/serv-5.jpg" alt=""></div><div _ngcontent-ksr-c64="" class="overlay-content"><div _ngcontent-ksr-c64="" class="content"><div _ngcontent-ksr-c64="" class="category">Molecular Biology</div></div><div _ngcontent-ksr-c64="" class="link-btn"><a _ngcontent-ksr-c64="" routerlink="/glimps" class="theme-btn" href="https://www.delta-medlab.com/glimps"><span _ngcontent-ksr-c64="" class="flaticon-right-arrow"></span></a></div></div></div></a></div><div _ngcontent-ksr-c64="" class="project-block-three col-lg-3 col-md-6"><a _ngcontent-ksr-c64="" routerlink="/glimps" href="https://www.delta-medlab.com/glimps"><div _ngcontent-ksr-c64="" class="inner-box"><div _ngcontent-ksr-c64="" class="image"><img _ngcontent-ksr-c64="" src="./carousel1_files/serv-6.jpg" alt=""></div><div _ngcontent-ksr-c64="" class="overlay-content"><div _ngcontent-ksr-c64="" class="content"><div _ngcontent-ksr-c64="" class="category">Analytical Chemistry</div></div><div _ngcontent-ksr-c64="" class="link-btn"><a _ngcontent-ksr-c64="" routerlink="/glimps" class="theme-btn" href="https://www.delta-medlab.com/glimps"><span _ngcontent-ksr-c64="" class="flaticon-right-arrow"></span></a></div></div></div></a></div></div></div></section></app-home><!----><app-footer _ngcontent-ksr-c83="" _nghost-ksr-c82=""><footer _ngcontent-ksr-c82="" id="footer" class="main-footer style-two"><div _ngcontent-ksr-c82="" class="pattern" style="background-image: url(assets/images/shape/pattern-1-1.png);"></div><div _ngcontent-ksr-c82="" class="auto-container"><div _ngcontent-ksr-c82="" class="widgets-section"><div _ngcontent-ksr-c82="" class="row"><div _ngcontent-ksr-c82="" class="col-lg-6"><div _ngcontent-ksr-c82="" class="footer-widget links-widget"><h3 _ngcontent-ksr-c82="" class="widget-title">Information</h3><!----><div _ngcontent-ksr-c82="" class="widget-content"><div _ngcontent-ksr-c82="" class="row"><div _ngcontent-ksr-c82="" class="col-sm-12"><ul _ngcontent-ksr-c82=""><li _ngcontent-ksr-c82=""><a _ngcontent-ksr-c82="" routerlink="/about" href="https://www.delta-medlab.com/about">About Us</a></li><li _ngcontent-ksr-c82=""><a _ngcontent-ksr-c82="" routerlink="/glimps" href="https://www.delta-medlab.com/glimps">Lab Overview</a></li><li _ngcontent-ksr-c82=""><a _ngcontent-ksr-c82="" routerlink="/contact-us" href="https://www.delta-medlab.com/contact-us">Contact Us</a></li><li _ngcontent-ksr-c82=""><a _ngcontent-ksr-c82="" routerlink="/category-test-list/packages" href="https://www.delta-medlab.com/category-test-list/packages">Packages</a></li><li _ngcontent-ksr-c82=""><a _ngcontent-ksr-c82="" routerlink="/category-test-list/tests" href="https://www.delta-medlab.com/category-test-list/tests">Tests</a></li></ul></div></div></div><div _ngcontent-ksr-c82="" class="contact-widget mt-3"><ul _ngcontent-ksr-c82="" class="social-links clearfix"><li _ngcontent-ksr-c82=""><a _ngcontent-ksr-c82="" href="https://www.facebook.com/deltamedlab/" target="_blank"><span _ngcontent-ksr-c82="" class="fab fa-facebook-f"></span></a></li><li _ngcontent-ksr-c82=""><a _ngcontent-ksr-c82="" href="https://twitter.com/deltamedlab?t=yL-CiN-g-1nMooheM22i9Q&amp;s=09" target="_blank"><span _ngcontent-ksr-c82="" class="fab fa-twitter"></span></a></li><li _ngcontent-ksr-c82=""><a _ngcontent-ksr-c82="" href="https://www.instagram.com/deltamedlab1/" target="_blank"><span _ngcontent-ksr-c82="" class="fab fa-instagram"></span></a></li><li _ngcontent-ksr-c82=""><a _ngcontent-ksr-c82="" href="https://www.linkedin.com/company/67755068/admin/" target="_blank"><span _ngcontent-ksr-c82="" class="fab fa-linkedin"></span></a></li></ul></div></div></div><div _ngcontent-ksr-c82="" class="col-lg-6"><div _ngcontent-ksr-c82="" class="footer-widget contact-widget"><h3 _ngcontent-ksr-c82="" class="widget-title">Contact Details</h3><div _ngcontent-ksr-c82="" class="widget-content"><div _ngcontent-ksr-c82="" class="text"><li _ngcontent-ksr-c82="">Najran Street, Dhahrat Laban, Riyadh, Saudi Arabia</li></div><ul _ngcontent-ksr-c82="" class="list"><li _ngcontent-ksr-c82="">Call Us : <a _ngcontent-ksr-c82="" href="tel:8001240412">8001240412, </a></li><li _ngcontent-ksr-c82="">Mail us : <a _ngcontent-ksr-c82="" href="mailto:info@delta-medlab.com">info@delta-medlab.com</a></li></ul></div></div></div></div></div></div><div _ngcontent-ksr-c82="" class="footer-bottom-two"><div _ngcontent-ksr-c82="" class="auto-container"><div _ngcontent-ksr-c82="" class="row m-0 justify-content-between"><div _ngcontent-ksr-c82="" class="copyright-text">© 2022 Delta Medical Laboratory, All Rights Reserved.</div><ul _ngcontent-ksr-c82="" class="menu"><li _ngcontent-ksr-c82=""><a _ngcontent-ksr-c82="" routerlink="/privacy-policy" class="px-2" href="https://www.delta-medlab.com/privacy-policy">Privacy Policy </a></li><li _ngcontent-ksr-c82=""><a _ngcontent-ksr-c82="" routerlink="/terms-conditions" class="px-2" href="https://www.delta-medlab.com/terms-conditions">Terms &amp; Conditions</a></li></ul></div></div></div></footer></app-footer><!----></div></app-root>
+  </div>
+
+  <script type="text/javascript" src="./carousel1_files/jquery.js.download"></script>
+  <!-- DevTools failed to load source map: Could not load content for -->
+  <!-- <script type="text/javascript" src="assets/js/popper.min.js"></script> -->
+  <!-- <script type="text/javascript" src="assets/js/swiper.min.js"></script> -->
+  <script type="text/javascript" src="./carousel1_files/jquery.fancybox.js.download"></script>
+  <script type="text/javascript" src="./carousel1_files/isotope.js.download"></script>
+  <script type="text/javascript" src="./carousel1_files/owl.js.download"></script>
+  <script type="text/javascript" src="./carousel1_files/appear.js.download"></script>
+  <script type="text/javascript" src="./carousel1_files/wow.js.download"></script>
+  <script type="text/javascript" src="./carousel1_files/lazyload.js.download"></script>
+  <script type="text/javascript" src="./carousel1_files/scrollbar.js.download"></script>
+  <script type="text/javascript" src="./carousel1_files/TweenMax.min.js.download"></script>
+  <script type="text/javascript" src="./carousel1_files/jquery.lettering.min.js.download"></script>
+  <script type="text/javascript" src="./carousel1_files/jquery.circleType.js.download"></script>
+  <script src="./carousel1_files/jquery.min.js.download"></script>
+  <script src="./carousel1_files/owl.carousel.min.js.download"></script>
+
+  <script src="./carousel1_files/jquery-ui.js.download"></script>
+  <!-- <script src="./assets/js/script.js"></script> -->
+  <!-- <script type="text/javascript" src="assets/js/bootstrap-select.min.js"></script> -->
+  <!-- <script type="text/javascript" src="assets/js/bootstrap.min.js"></script> -->
+  <script type="text/javascript" src="./carousel1_files/script.js.download"></script>
+  <script>
+    (function ($) {
+      $.fn.menumaker = function (options) {
+        var cssmenu = $(this),
+          settings = $.extend({
+            format: "dropdown",
+            sticky: false
+          }, options);
+        return this.each(function () {
+          $(this).find(".button").on('click', function () {
+            $(this).toggleClass('menu-opened');
+            var mainmenu = $(this).next('ul');
+            if (mainmenu.hasClass('open')) {
+              mainmenu.slideToggle().removeClass('open');
+            } else {
+              mainmenu.slideToggle().addClass('open');
+              if (settings.format === "dropdown") {
+                mainmenu.find('ul').show();
+              }
+            }
+          });
+          cssmenu.find('li ul').parent().addClass('has-sub');
+          multiTg = function () {
+            cssmenu.find(".has-sub").prepend('<span class="submenu-button"></span>');
+            cssmenu.find('.submenu-button').on('click', function () {
+              $(this).toggleClass('submenu-opened');
+              if ($(this).siblings('ul').hasClass('open')) {
+                $(this).siblings('ul').removeClass('open').slideToggle();
+              } else {
+                $(this).siblings('ul').addClass('open').slideToggle();
+              }
+            });
+          };
+          if (settings.format === 'multitoggle') multiTg();
+          else cssmenu.addClass('dropdown');
+          if (settings.sticky === true) cssmenu.css('position', 'fixed');
+          resizeFix = function () {
+            var mediasize = 1000;
+            if ($(window).width() > mediasize) {
+              cssmenu.find('ul').show();
+            }
+            if ($(window).width() <= mediasize) {
+              cssmenu.find('ul').hide().removeClass('open');
+            }
+          };
+          resizeFix();
+          return $(window).on('resize', resizeFix);
+        });
+      };
+    })(jQuery);
+
+    (function ($) {
+      $(document).ready(function () {
+        $("#cssmenu").menumaker({
+          format: "multitoggle"
+        });
+      });
+    })(jQuery);
+
+  </script>
+<script src="./carousel1_files/runtime.6cf55f75a28657ca.js.download" type="module"></script><script src="./carousel1_files/polyfills.574a705a6ac29e80.js.download" type="module"></script><script src="./carousel1_files/scripts.9c0697bb1acd1556.js.download" defer=""></script><script src="./carousel1_files/main.d4b17287c163cf4f.js.download" type="module"></script>
+
+
+</body></html>

@@ -1,0 +1,751 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="deltaweb.css" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <title>Delta-website</title>
+</head>
+<body>
+  <div>
+    <!-- tooltip start -->
+    <div class="d-flex justify-content-between  custom-pad ">
+      <div class="top d-flex justify-content-center w-100 text-white smallfont">
+        <div>
+          Call Us : 8001240412 - Whatsapp : 8001240412
+        </div>
+      </div>
+      <i class="fa-sharp fa fa-xmark d-flex align-items-center mr-3 text-white popup-cross icon"></i>
+    </div>
+    <!-- tooltip end -->
+
+    <!-- navbar start-->
+    <nav class="navbar navbar-expand-lg navbar-light  d-flex align-items-center">
+      <div class="container-fluid container">
+        <a class="navbar-brand col" href="#">
+          <img style="height: 60px; " src="./HomePage-img/logo-delta.png" alt="" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse col" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="DeltaWeb.html">Home</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
+                aria-expanded="false">
+                Services
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <li><a class="dropdown-item" href="./service-page/test.html">Tests</a></li>
+                <li><a class="dropdown-item" href="./service-page/package.html">Packages</a></li>
+                <li><a class="dropdown-item" href="./service-page/Home-service.html">Home services</a></li>
+              </ul>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link disabled">Blogs</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link disabled">Branches</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
+                aria-expanded="false">
+                For Companies
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <li><a class="dropdown-item" href="./For-Company/Onlinesample.html">Online Sample Regestration</a></li>
+                <li><a class="dropdown-item" href="./For-Company/MaterialReq.html">Material Request</a></li>
+                <li><a class="dropdown-item" href="./DeltaWeb.html">Outreach</a></li>
+              </ul>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
+                aria-expanded="false">
+                About Us
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <li><a class="dropdown-item" href="./About-Us/About-us.html">About Us</a></li>
+                <li><a class="dropdown-item" href="#">Accreditation</a></li>
+                <li><a class="dropdown-item" href="#">Specimen Handeling</a></li>
+                <li><a class="dropdown-item" href="#">Lab Overview</a></li>
+                <li><a class="dropdown-item" href="#">News and Updates</a></li>
+              </ul>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link disabled">Join Us</a>
+            </li>
+          </ul>
+          <form class="d-flex col">
+            <button class="btn-nav">Get Your Results</button>
+          </form> 
+        </div>
+      </div>
+    </nav>
+    <!-- navbar end -->
+
+    <!-- carousel start -->
+    <div>
+      <div id="carouselExampleIndicators" class="carousel slide d-flex" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"
+            aria-current="true" aria-label="Slide 1"></button>
+          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
+            aria-label="Slide 2"></button>
+        </div>
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="./HomePage-img/car-img.png" class="d-block w-100" alt="img1" />
+            <Button class="carousel-btn">شهمدالمزيد</Button>
+          </div>
+          <div class="carousel-item">
+            <img src="./HomePage-img/car-img2.png" class="d-block w-100" alt="img2" />
+            <Button class="carousel-btn">شهمدالمزيد</Button>
+          </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
+          data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
+          data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+    </div>
+    <!-- carousel end -->
+  </div>
+  <!-- cards1 start -->
+
+  <div style="background-image: url(./HomePage-img/sky-color.png); height: auto; padding: 0 5%;">
+    <div class="offer-width ">
+      <div class="mb-3 " style="padding:15px ; color: #424794;">
+        <h2 class="text-center ">
+          Welcome to
+          <br>
+          Delta Medical Laboratories
+        </h2>
+      </div>
+
+      <div>
+        <h3 class="w-100  pb-3 quick-link-middle" style="color: #424794; margin-left: 5%;">What are you looking for
+          today</h3>
+      </div>
+      <div class="grid-container  row justify-content-md-center">
+        <div class="col-md-2 p-4 m-2 single-card">
+          <div class="grid-icon-container">
+            <i class="fa-regular fa-clipboard fonteimage"></i>
+          </div>
+          <h4 class="grid-content-heading" style="font-family: Fira Sans ,sans-serif;">Our Offers</h4>
+          <p class="text-dark">To see the latest Offers, Packages and Tests availble.</p>
+          <a href="" style="color: #a2bf62; text-decoration: none;">Read More...</a>
+        </div>
+        <div class=" col-md-2 p-4 m-2  single-card">
+          <div class="grid-icon-container">
+            <i class="fa fa-house fonteimage"></i>
+          </div>
+          <h4 class="grid-content-heading" style="font-family: Fira Sans ,sans-serif;">Home Service</h4>
+          <p class="text-dark">To explore more about home services.</p>
+          <a href="" style="color: #a2bf62; text-decoration: none;">Read More...</a>
+        </div>
+        <div class=" col-md-2 p-4 m-2 single-card">
+          <div class="grid-icon-container">
+            <i class="fa-solid fa-location-dot fonteimage"></i>
+          </div>
+          <h4 class="grid-content-heading" style="font-family: Fira Sans ,sans-serif;">Our Location</h4>
+          <p class="text-dark">To find the closest Delta Center to you and more.</p>
+          <a href="" style="color: #a2bf62; text-decoration: none;">Read More...</a>
+        </div>
+        <div class=" col-md-2 p-4 m-2 single-card">
+          <div class="grid-icon-container">
+            <i class="fa-solid fa-square-poll-horizontal fonteimage"></i>
+          </div>
+          <h4 class="grid-content-heading" style="font-family: Fira Sans ,sans-serif;">Results</h4>
+          <p class="text-dark">To veiw your Results and more.</p>
+          <a href="" style="color: #a2bf62; text-decoration: none;">Read More...</a>
+        </div>
+        <div class=" col-md-2 p-4 m-2 single-card">
+          <div class="grid-icon-container">
+            <i class="fa-solid fa-phone fonteimage"></i>
+          </div>
+          <h4 class="grid-content-heading" style="font-family: Fira Sans ,sans-serif;">Contact Us</h4>
+          <p class="text-dark">For any queries/to know more about Delta Offers and Packages.</p>
+          <a href="" style="color: #a2bf62; text-decoration: none;">Read More...</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- cards2 end -->
+
+  <!-- cards with content start -->
+<section class="about-section">
+  <div class="auto-container">
+    <div class="row">
+      <div class="col-lg-6">
+      </div>
+      <div class="col-lg-6">
+        <div class="sec-title">
+          <h2 class="h2">Delta Medical Laboratories</h2>
+          <!-- <div class="text-decoration" style="background-color: black;" >
+            <span class="left" ></span>
+            <span class="right"></span>
+          </div> -->
+
+          <div class="new_design d-flex justify-content-center align-items-center" style="margin-left: -90%;">
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="middle-point"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+        </div>
+
+          <div class="text">
+            Delta Medical Laboratories is one of the first private reference laboratories in Saudi Arabia. It was founded in 1997 by a group of prominent Saudi Consultants to provide medical laboratory services to all private and public health care sectors. We are very pleased to provide high-quality medical services to the whole community in the Kingdom of Saudi Arabia.
+          </div>
+          <div class="text">
+            We offer a broad range of routine and high complexity testing services used by the medical profession in the screening diagnosis, treatment follow-up, and treatment selection of several medical conditions. The company’s customers include government hospitals, government agencies, private hospitals, polyclinics independent physicians and physician groups, pharmaceutical companies, and other company firms.
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+ <!-- cards with content end -->
+
+<!-- sm-cards start -->
+<section class="funfacts-section pt-1 section-wide ">
+<div class="container">
+  <div class="fact-counter">
+    <div class="row">
+      <div class="column counter-column col-lg-3 col-sm-6 col-12 d-flex align-items-stretch">
+        <div class="inner col-12 ">
+          <div class="content">
+            <div class="icon-box">
+              <div class="icon1 ">
+                 <img src="./HomePage-img/users.svg" alt="">
+              </div>
+              <div class="counter-title">SATISFIED <br>CUSTOMERS</div>
+            </div>
+            <div class="count-outer count-box">
+             <span  class="count-text">1</span>
+             <span>M+</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="column counter-column col-lg-3 col-sm-6 col-12 d-flex align-items-stretch">
+        <div class="inner col-12 ">
+          <div class="content">
+            <div class="icon-box">
+              <div class="icon1">
+                <img src="./HomePage-img/service.svg" alt="">
+              </div>
+              <div class="counter-title">Tests  <br>covered</div>
+            </div>
+            <div class="count-outer count-box">
+              <span  class="count-text">1</span>
+              <span>K+</span>
+             </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="column counter-column col-lg-3 col-sm-6 col-12 d-flex align-items-stretch">
+        <div class="inner col-12 ">
+          <div class="content">
+            <div class="icon-box">
+              <div class="icon1">
+                <img src="./HomePage-img/briefcase.svg" alt="">
+              </div>
+              <div class="counter-title">Years of <br>Experience</div>
+            </div>
+            <div class="count-outer count-box">
+              <span  class="count-text">25</span>
+              <span>Y</span>
+             </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="column counter-column col-lg-3 col-sm-6 col-12 d-flex align-items-stretch">
+        <div class="inner col-12 ">
+          <div class="content">
+            <div class="icon-box">
+              <div class="icon1">
+                <img src="./HomePage-img/reports.svg" alt="">
+              </div>
+              <div class="counter-title">Number of <br>Branches</div>
+            </div>
+            <div class="count-outer count-box">
+              <span  class="count-text">26</span>
+             </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+<!-- sm-cards end -->
+
+<!-- blue background start -->
+<section class="funfacts-section-two style-two" style="background-image: url(./HomePage-img/blue-bg.png);">
+   <div class="auto-container">
+    <div class="fact-counter-two">
+      <div class="row">
+        <div class="column counter-column col-lg-4">
+          <div class="inner pl-0">
+            <div class="content1">
+              <div class="count-outer count-box1 mb-4">
+                <span class="count-text" >Mission</span>
+              </div>
+              <div class="text1">Providing premium diagnostic medical laboratory services through high quality.</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="column counter-column col-lg-4">
+    
+          <div class="inner pl-0">
+            <div class="content1">
+              <div class="count-outer count-box1 mb-4">
+                <span class="count-text" >VISION</span>
+              </div>
+              <div class="text1">To widen our scope of service throughout the Kingdom with high quality and process improvement.</div>
+            </div>
+          </div>
+
+        </div>
+        <div class="column counter-column col-lg-4">
+
+          <div class="inner pl-0">
+            <div class="content1" style="border: none;">
+              <div class="count-outer count-box1 mb-4">
+                <span class="count-text" >CORE <br> VALUES</span>
+              </div>
+              
+              <div class="text2 text-left row">
+               <span class="col-5 d-flex" >
+                <i class="far fa-dot-circle" ></i>
+                <span style="position: relative; left: 10px ; top: -5px;">Safety</span>  
+               </span>
+               <span class="col-7 d-flex">
+                <i class="far fa-dot-circle" ></i>
+                <span style="position: relative; left: 10px ; top: -5px;">Quality</span>  
+               </span>
+               <span class="col-5 d-flex">
+                <i class="far fa-dot-circle" ></i>
+                <span style="position: relative; left: 10px ; top: -5px;">Loyalty</span>  
+               </span>
+               <span class="col-7 d-flex">
+                <i class="far fa-dot-circle" ></i>
+                <span style="position: relative; left: 10px ; top: -5px;">Efficiency</span>  
+               </span>
+               <span class="col-12 d-flex">
+                <i class="far fa-dot-circle" ></i>
+                <span style="position: relative; left: 10px ; top: -5px;">Process Improvements</span>  
+               </span>
+              </div>
+            </div>
+          </div>
+
+        </div>
+       
+      </div>
+    </div>
+   </div>
+</section>
+<!-- blue background end -->
+ 
+<!-- svg img with content start -->
+<section class="services-section padt0" style="background-image: url(./HomePage-img/white-bg.png);">
+  <div class="auto-container">
+    <div class="row m-0 align-items-center justify-content-between goalscnt">
+      <div class="col-lg-6 col-md-6">
+        <img src="./HomePage-img/goals.webp" alt="">
+      </div>
+      <div class="col-lg-6 col-md-6">
+        <div class="sec-title-1 style-two-1 goalSec Uppercase">
+          <h2 class="goal">Our Goals</h2>
+          <!-- <div class="text-decoration">
+            <span class="left"></span>
+            <span class="right"></span>
+          </div> -->
+
+          <div class="new_design d-flex justify-content-center align-items-center" style="margin-left: -90%; padding: 20px 0;" >
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="middle-point"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+        </div>
+
+            <ul class="text-justify ul">
+              <li class="d-flex" style="color: #424794; "><i class="fa fa-check" style="margin-left: -20px; padding: 10px; "></i>
+                Expand patient outreach through innovation in the Kingdom of Saudi Arabia.</li>
+                <li class="d-flex" style="color: #424794;"><i class="fa fa-check" style="margin-left: -20px; padding: 10px; "></i>
+                  Attaining local and international accreditations for all branches.</li>
+                  <li class="d-flex" style="color: #424794;"><i class="fa fa-check" style="margin-left: -20px; padding: 10px; "></i>
+                    Introduction of innovative tests, services and departments.</li>
+                    <li class="d-flex" style=" color: #424794;"><i class="fa fa-check" style="margin-left: -20px; padding: 10px;"></i>
+                      To develop process improvement projects.</li>
+                      <li class="d-flex" style="color: #424794;"><i class="fa fa-check" style="margin-left: -20px; padding: 10px; "></i>
+                        Improvement of administrative, medical and technical team performance.</li>
+            </ul>
+        </div>
+      </div>
+    </div>
+  
+
+  <div class="row m-0 align-items-center justify-content-between whychoose " >
+    <div class="sec-title style-two">
+      <h4 >
+        <span class="d-flex" ><i class="fa fa-infinity" style="padding: 0 10px;"></i>
+         BEST IN INDUSTRY
+        </span>
+      </h4>
+      <h2 style="font-weight: 600; font-size: 45px;">WHY CHOOSE US</h2>
+      <!-- <div class="text-decoration">
+        <span class="left"></span>
+        <span class="right"></span>
+      </div> -->
+
+      <div class="new_design d-flex justify-content-center align-items-center" style="margin-left: -95%; padding: 20px 0;">
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="middle-point"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+    </div>
+      <p class="text-justify">
+        We offer a broad range of routine and high complexity testing services used by the medical profession in the screening, diagnosis, treatment follow-up, and treatment selection of several medical conditions. The company’s customers include government hospitals, government agencies, private hospitals, polyclinics independent physicians and physician groups, pharmaceutical companies, and other company firms.
+      </p>
+    </div>
+  </div>
+
+  <div class="row align-items-stretch">
+    <div class="col-lg-3 col-md-6 service-block-one d-flex">
+      <div class="inner-box">
+        <div class="icon1">
+          <div class="icon-inner">
+         <i style="color: #424794;" class="fa fa-award"></i>
+          </div>
+        </div>
+          <h4> High Quality 
+            <br>
+            Quick Service
+          </h4>
+          <div style="font-size: 18px;">
+            Our lab’s employees strive always to provide our customers with the highest,possible quality and to serve them as quickly as it is possible. Our customers also can book,their appointment at a time that suits them.
+          </div>
+       
+      </div>
+    </div>
+    <div class="col-lg-3 col-md-6 service-block-one d-flex">
+      <div class="inner-box">
+        <div class="icon1">
+          <div class="icon-inner">
+            <i style="color: #424794;" class="fa fa-vial"></i>
+          </div>
+        </div>
+          <h4> Sample Collection
+            <br>
+            from Your Location
+          </h4>
+          <div style="font-size: 18px;">
+            The Home Service provides a home sampling service without the need to visit the medical laboratory. Please contact us through phone or whatsapp at 8001240412 for reservations.
+          </div>
+       
+      </div>
+    </div>
+    <div class="col-lg-3 col-md-6 service-block-one d-flex">
+      <div class="inner-box">
+        <div class="icon1">
+          <div class="icon-inner">
+            <i style="color: #424794;" class="fa-solid fa-fingerprint"></i>
+          </div>
+        </div>
+          <h4>Reports on
+            <br>
+            Your Fingertips
+          </h4>
+          <div style="font-size: 18px;">
+            Find and print your test results online whenever you want them and wherever,you are, by a touch of your fingertips.
+          </div>
+       
+      </div>
+    </div>
+    <div class="col-lg-3 col-md-6 service-block-one d-flex">
+      <div class="inner-box">
+        <div class="icon1">
+          <div class="icon-inner">
+            <i style="color: #424794;" class="fa fa-tags"></i>
+          </div>
+        </div>
+          <h4>Discounted
+            <br>
+            Prices
+          </h4>
+          <div style="font-size: 18px;">
+            Our prices are affordable and we offer frequent offers on the profiles tests.
+          </div>
+       
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+<!-- svg img with content end -->
+
+
+<!-- start certification -->
+<section class="features-section-two my-1" style="background-image: url(./HomePage-img/blue2-bg.jpg);">
+<div class="auto-container">
+  <div class="row">
+    <div class="col-lg-6 pr-5">
+      <div class="sec-title style-two">
+        <h2 class="text-white">
+          Our
+          <br>
+          Certifications
+        </h2>
+      </div>
+       <div class="content-block">
+        <div class="image">
+          <img src="./HomePage-img/award.png" alt="">
+        </div>
+        <div class="text-white text-justify">
+          <p class="p">
+            Delta Medical Laboratories aspire to offer high-quality testing following national and international accreditation guidelines including the College of American Pathologists (CAP) and Clinical and Laboratory Standards Institute (CLSI). The laboratory is currently accredited by the College of American Pathologists (CAP) and the International Organization for Standardization 9001:2015 (ISO 9001:2015) that sets out the requirements for the quality management system.
+          </p>
+        </div>
+        <div class="btn">
+          <span class="bt-title">READ MORE</span>
+        </div>
+       </div>
+    </div>
+    <div class="col-lg-6">
+      <div class="row">
+        <div class="feature-block-three col-sm-6">
+          <div class="inner-box w-100">
+            <div class="lower-content d-flex flex-column">
+              <div class="icon-card">CBAHI</div>
+              <h4 class="accredH">
+                <img src="./HomePage-img/card-1.jpeg" alt="" width="200">
+                <p style="margin-bottom: -21px !important; color: rgb(118, 117, 117);">----------------------- </p>
+                <p style="color:  rgb(118, 117, 117);" >-----------------------</p>
+              </h4>
+             
+              <a href="" class="btn2"> Read More</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="feature-block-three col-sm-6">
+          <div class="inner-box w-100">
+            <div class="lower-content d-flex flex-column">
+              <div class="icon-card">CAP</div>
+              <h4 class="accredH">
+                <img src="./HomePage-img/CAP-Logo.jpeg" alt="" width="100" style="margin-left: 50px;">
+                <p style="margin-bottom: -21px !important; color: rgb(118, 117, 117);">----------------------- </p>
+                <p style="color:  rgb(118, 117, 117);" >-----------------------</p>
+              </h4>
+             
+              <a href="" class="btn2"> Read More</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="feature-block-three col-sm-6">
+          <div class="inner-box w-100">
+            <div class="lower-content d-flex flex-column">
+              <div class="icon-card">JCI</div>
+              <h4 class="accredH">
+                <img src="./HomePage-img/JCI.jpeg" alt="" width="100" style="margin-left: 50px;">
+                <p style="margin-bottom: -21px !important; color: rgb(118, 117, 117);">----------------------- </p>
+                <p style="color:  rgb(118, 117, 117);" >-----------------------</p>
+              </h4>
+             
+              <a href="" class="btn2"> Read More</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="feature-block-three col-sm-6">
+          <div class="inner-box w-100">
+            <div class="lower-content d-flex flex-column">
+              <div class="icon-card">ISO 9001:2015</div>
+              <h4 class="accredH">
+                <img src="./HomePage-img/ISO.jpeg" alt="" width="100" style="margin-left: 50px;">
+                <p style="margin-bottom: -21px !important; color: rgb(118, 117, 117);">----------------------- </p>
+                <p style="color:  rgb(118, 117, 117);" >-----------------------</p>
+              </h4>
+             
+              <a href="" class="btn2"> Read More</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+<!-- end cirtification -->
+
+<!-- our department start -->
+<section class="projects-section-three">
+  <div class="auto-container">
+    <div class="sec-title style-four text-center">
+      <h2>
+        Our departments
+      </h2>
+      <h2 style="color: orange;">-----</h2>
+    </div>
+    <div class="row isotope-block">
+      <div class="project-block-three col-lg-3 col-md-6">
+        <div class="inner-box">
+          <div class="image">
+            <img src="./HomePage-img/serv-1.png" alt="" width="300px">
+          </div>
+        </div>
+      </div>
+      <div class="project-block-three col-lg-3 col-md-6">
+        <div class="inner-box">
+          <div class="image">
+            <img src="./HomePage-img/serv-2.jpeg" alt="" width="300px">
+          </div>
+        </div>
+      </div>
+      <div class="project-block-three col-lg-3 col-md-6">
+        <div class="inner-box">
+          <div class="image">
+            <img src="./HomePage-img/serv-3.png" alt="" width="300px">
+          </div>
+        </div>
+      </div>
+      <div class="project-block-three col-lg-3 col-md-6">
+        <div class="inner-box">
+          <div class="image">
+            <img src="./HomePage-img/serv-4.png" alt="" width="300px">
+          </div>
+        </div>
+      </div>
+      <div class="project-block-three col-lg-3 col-md-6" style="margin-top: 25px;">
+        <div class="inner-box">
+          <div class="image">
+            <img src="./HomePage-img/serv-5.png" alt="" width="300px">
+          </div>
+        </div>
+      </div>
+      <div class="project-block-three col-lg-3 col-md-6" style="margin-top: 25px;">
+        <div class="inner-box">
+          <div class="image">
+            <img src="./HomePage-img/serv-6.png" alt="" width="300px">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- our department end -->
+
+
+<!-- footer start -->
+<footer class="main-footer style-two">
+  <div class="pattern" style="background-image: url(./HomePage-img/footer.jpeg);">
+  <div class="auto-container">
+    <div class="widgets-section">
+   <div class="row">
+    <div class="col-lg-6">
+      <div class="footer-widget links-widget"></div>
+         <h3 class="widget-title">Information</h3>
+         <div class="widget-content">
+          <div class="row">
+            <div class="col-sm-12">
+              <ul class="d-flex foot">
+                <li><a href="">About Us</a></li>
+                <li><a href="">Lab Overview</a></li>
+                <li><a href="">Contact Us</a></li>
+                <li> <a href="">Packages</a></li>
+                <li><a href="">Tests</a></li>
+              </ul>
+            </div>
+          </div>
+         </div>
+         <div class="contact-widget mt-3 ">
+         <ul class="social-links clearfix d-flex">
+            <li><a href="https://www.facebook.com/deltamedlab/">
+              <span class="fab fa-facebook-f"></span>
+            </a></li>
+            <li><a href=""> <span class="fab fa-twitter"></span></a></li>
+            <li><a href=""> <span class="fab fa-instagram"></span></a></li>
+            <li><a href=""> <span class="fab fa-linkedin"></span></a></li>
+
+            
+         </ul>
+         </div>
+    </div>
+    <div class="col-lg-6">
+      <div class="footer-widget contact-widget">
+         <h3 class="widget-title">Contact Details</h3>
+         <div class="widget-content">
+          <div class="text1">
+            <li>Najran Street, Dhahrat Laban, Riyadh, Saudi Arabia</li>
+          </div>
+          <ul class="list">
+            <li>Call Us :
+            <a href="">8001240412,</a>
+          </li>
+          <li>
+          Mail us : 
+            <a href="">inf0@delta-medlab.com</a>
+          </li>
+          </ul>
+         </div>
+      </div>
+    </div>
+   </div>
+    </div>
+   
+
+    </div>
+  </div>
+  
+<div class="footer-bottom-two ">
+<div class="auto-container">
+<div class="row m-0 justify-content-between">
+  <div class="copyright-text d-flex">
+    © 2022 Delta Medical Laboratory, All Rights Reserved
+  
+  <ul class="menu" style="padding-left: 30%;">
+    <li><a href="" class="px-2">Privacy Policy</a></li>
+    <li><a href="" class="px-2">Terms & Conditions</a></li>
+  </div>
+  </ul>
+</div>
+</div>
+  </div>
+</div>
+</footer>
+
+<!-- footer end -->
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+    crossorigin="anonymous"></script>
+</body>
+
+</html>
