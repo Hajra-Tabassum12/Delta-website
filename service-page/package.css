@@ -33,12 +33,12 @@
     padding: 8px 0px !important;
     font-size: 16px !important;
     font-weight: 400 !important;
-    margin-left: 1rem;
+    margin-left: -1rem;
     width: 10rem;
 }
-.dropdown:hover .dropdown-menu{
+/* .dropdown:hover .dropdown-menu{
     display: block;
-}
+} */
 
 .btn:hover {
     border: none;
