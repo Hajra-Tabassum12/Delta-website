@@ -388,3 +388,58 @@ ul, li a{
     }
 
 
+/* cards start */
+
+.sidebar{
+    position: relative;
+    padding: 100px 0 70px;
+}
+.row-div{
+    box-shadow: 0 0 50px #0003;
+}
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    height: inherit;
+}
+.item{
+    position: relative;
+    /* display: none; */
+    float: left;
+    width: 100%;
+    margin-right: -100%;
+    backface-visibility: hidden;
+}
+.img{
+    width: 100%;
+    max-height: 255px
+}
+
+.cust-date{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.date_title{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+    line-height: 1.2;
+    font-size: 15px;
+    font-weight: 650;
+}
+.h4{
+    position: relative;
+    font-weight: normal;
+    line-height: 1.25em;
+    margin: 0;
+    background: none;
+}
+.txt_center{
+    height: 140px;
+   font-size: 15px;
+   color: #a2bf62 !important;
+}
+
+
+/* cards end */
