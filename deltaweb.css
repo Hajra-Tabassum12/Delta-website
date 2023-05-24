@@ -16,16 +16,19 @@ body{
     font-size: 20px;
 }
 
+/* nav bar css ****************************************************************************/
+
 .nav-link {
-    color: #4f5399 !important;
+    color: #4f5399 !important; 
     font-weight: 500 !important;
+    padding: 22px 20px;
 }
 
 .nav-item {
     /* padding: 0px 12px 0px 0px !important; */
-    padding-right: -45px;
-    font-size: 5px;
-    margin-left: -12px;
+    /* padding-right: 25px; */
+    font-size: 17px;
+    /* margin-left: -12px; */
 }
 
 .btn-nav {
@@ -36,20 +39,24 @@ body{
     padding: 8px 0px !important;
     font-size: 16px !important;
     font-weight: 400 !important;
-    margin-left: 2.5rem;
     width: 10rem;
+    
 }
-/* .dropdown:hover .dropdown-menu{
+.navbar-toggler{
+    position: absolute;
+    right: 0;
+}
+.dropdown:hover .dropdown-menu{
     display: block;
-} */
+}
 
 .btn:hover {
-    border: none;
+    /* border: none; */
 }
 
 
 .navbar-nav {
-    margin-left: 3rem;
+    /* margin-left: 2rem; */
 }
 
 .navbar {
@@ -60,13 +67,16 @@ body{
     opacity: 1 !important;
     position: relative !important;
     z-index: 1000;
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
 .dropdown-menu {
-    margin-top: 1.4rem !important;
+    /* margin-top: 1rem !important; */
     border-radius: 2px !important;
     padding: 15px 8px !important;
     background-color: #4f5399 !important;
+    margin: 0 !important;
 
 }
 
@@ -81,13 +91,65 @@ body{
     background-color: #4f5399 !important;
 }
 
+
+.btn-open{
+    /* position: absolute;
+    right: 10px;
+    top: 25px; */
+}
+
+
+.navbar-collapse{
+    /* flex-basis: 100%;
+    flex-grow: 1; */
+    /* position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    color: #fff; */
+}
+
+@media screen and (max-width: 1238px){ 
+    .btn-open{
+        display: block !important;
+    }
+    .navbar-expand-lg .navbar-collapse{
+        display: none !important;
+    }
+    .navbar-expand-lg .navbar-collapse.show{
+        display: block !important;
+    }
+    .navbar-nav{
+        display: block;
+    }
+    .btn-navbar{
+        position: absolute;
+        top: 0;
+        right: 20%;       
+    }
+    .btn-nav{
+        position: relative;
+        padding: 5px 15px !important;
+        font-size: 9px !important;
+        width: 10%;
+        margin-left: 40rem !important;
+        margin-top: 1rem !important;     
+    } 
+    .logo{
+       /* width: 10% !important; */
+    }
+}
+
+ 
+
+
+/********************* nav end*****************************888 */
 .d-block {
-    height: 40rem;
+   
     background-color: transparent !important;
     box-sizing: border-box !important;
     overflow: hidden;
 }
-
 .carousel-btn {
     color: white;
     font-weight: 900;
@@ -95,11 +157,11 @@ body{
     border-radius: 45px;
     padding: 0px 47px;
     outline: none !important;
-    font-size: xx-large;
+    font-size: large;
     border: none;
     position: absolute;
     left: 41%;
-    bottom: 15%;
+    bottom: 25%;
 }
 .bg-text{
    background-image: url(sky-color.png); 
