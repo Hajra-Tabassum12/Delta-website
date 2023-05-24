@@ -77,7 +77,6 @@ body{
     padding: 15px 8px !important;
     background-color: #4f5399 !important;
     margin: 0 !important;
-
 }
 
 .dropdown-item{
@@ -85,20 +84,15 @@ body{
     color: white !important;
    
 }
-
 .dropdown-item:hover {
     color: #7a7eae !important;
     background-color: #4f5399 !important;
 }
-
-
 .btn-open{
     /* position: absolute;
     right: 10px;
     top: 25px; */
 }
-
-
 .navbar-collapse{
     /* flex-basis: 100%;
     flex-grow: 1; */
@@ -139,9 +133,6 @@ body{
        /* width: 10% !important; */
     }
 }
-
- 
-
 
 /********************* nav end*****************************888 */
 .d-block {
