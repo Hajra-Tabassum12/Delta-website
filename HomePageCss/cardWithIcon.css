@@ -1,0 +1,11 @@
+
+
+.count-box1{ 
+    font-size: 48px !important;
+    line-height: 50px !important;
+    font-weight: 700 !important;
+    text-transform: uppercase !important;  
+    margin-bottom: 4px !important;
+    -webkit-text-fill-color: white;
+    /* text-align: left; */
+}

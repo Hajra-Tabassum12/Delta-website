@@ -1,0 +1,38 @@
+.funfacts-section-two{
+    position: relative;
+    padding: 100px 0 70px;
+    background-size: cover;
+}
+.inner {
+    position: relative ;
+    margin-bottom: 30px ;
+}
+.funfacts-section-two .style-two .content1 {
+    background: transparent ;
+}
+
+.funfacts-section-two .content1 {
+    position: relative;
+    padding: 31px 30px;  
+    border-right: 1.5px solid #433d3d;
+}
+.text1 {
+    font-size: 20px;
+    font-weight: 400;
+    color: #c0c2ce;
+    margin-bottom: 15px;
+    line-height: 1.6rem;
+    text-align: initial;
+    list-style: none;
+    /* font-family: "Fira Sans sans-serif"; */
+}
+
+.text-left{
+    text-align: left!important;
+}
+.text2{
+    font-size: 20px;
+    font-weight: 400;
+    color: #fff;
+    margin-bottom: 15px;
+}

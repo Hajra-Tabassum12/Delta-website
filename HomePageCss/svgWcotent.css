@@ -1,0 +1,114 @@
+
+.services-section {
+    position: relative !important;
+    /* padding: 100px 0 70px !important; */
+    background-size: cover !important;
+}
+.sec-title-1{   
+    position: relative;
+    color: #424794;
+    /* padding-bottom: 0; */
+    margin-bottom: 2%;   
+}
+.goal{
+    font-size: 40px;
+    font-weight: bold;
+}
+.goalSec .goal{
+    margin: 0 0 15px!important;
+}
+.text-decoration {
+    position: relative;
+    height: 10px;
+    width: 50px;
+    display: block;
+    margin-bottom: 20px ;
+    background-color: #232629;
+}
+.left {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 10px;
+    width: 100%;
+}
+.right{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 10px;
+    width: 100%;
+}
+.text-justify{
+    text-align: justify!important;
+}
+.ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.sec-title h4 span {
+    position: relative;
+}
+
+.sec-title h4{
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    font-family: "Barlow",sans-serif;
+    color: #a2bf62;
+}
+.service-block-one {
+    position: relative;
+}
+.service-block-one .inner-box {
+    position: relative;
+    background-color: #fff;
+    padding: 0 26px 30px;
+    margin-bottom: 30px;
+    box-shadow: 0 0 50px #0000001a;
+    margin-top: 45px;
+}
+.service-block-one .icon1 {
+    position: relative;
+    font-size: 50px;
+    width: 93px;
+    height: 93px;
+    border: 1px dashed #c0c0c0;
+    padding: 6px;
+    border-top-left-radius: 30px;
+    margin-bottom: -20px;
+    transition: .5s;
+    transform: translateY(-45px);
+    background-color: none;
+}
+.service-block-one .icon1 .icon-inner {
+    position: relative;
+    background-color: #fff;
+    width: 79px;
+    height: 79px;
+    line-height: 79px;
+    text-align: center;
+    font-size: 50px;
+    border-top-left-radius: 30px;
+    box-shadow: 0 0 40px #00000026;
+    transition: .5s;
+    padding: 19px;
+}
+.service-block-one h4 {
+    font-size: 22px;
+    font-weight: 600;
+    color: #202020;
+    margin-bottom: 20px;
+    /* padding:  28px 0; */
+}
+.about-section-five {
+    position: relative;
+    padding: 100px 0 70px;
+    background-size: cover;
+    background-position: right center;
+}
+.ourpartners {
+    padding: 0!important;
+}

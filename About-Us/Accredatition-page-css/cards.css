@@ -1,0 +1,37 @@
+/* cards start */
+.award{
+    min-height: 550px;
+    box-shadow: 0 2px 30px #0000001a;
+    position: relative;
+    background-color: #fff;
+    padding: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.image{
+    min-height: 150px;
+    margin-bottom: 20px;
+    
+}
+
+/* cards end */
+
+.dot{
+    width: 5px;
+    height: 5px;
+    background-color: #363636;
+    border-radius: 50%;
+    margin: 0 0.2rem
+}
+.middle-point{
+    width: 10px;
+    height: 10px;
+    background-color: #363636;
+    border-radius: 50%;
+    margin: 0 0.2rem
+}
+.float{
+    float: left;
+    text-align: left;
+    color: black;
+}

@@ -1,0 +1,101 @@
+/* about delta lab start */
+
+.sec-title {
+    position: relative;
+    margin-bottom: 50px;
+    color: #424794;
+}
+.h2 {
+    position: relative;
+    display: block;
+    font-size: 40px;
+    line-height: 1.2em;
+    font-weight: 700;
+    text-transform: capitalize;
+    padding-bottom: 30px;
+    letter-spacing: -.5px;
+    padding-bottom: 20px ;
+    /* padding-top: 15% */
+}
+
+.text-decoration-two {
+    position: relative;
+    height: 3px;
+    width: 74px;
+    background: url(../../About-Us-img/sec-title.png);
+    display: block;
+}
+.h4 {
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    color: #424794;
+}
+.text {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 30px;
+    margin-left: 1px;
+    color: #424794;
+}
+.about-section-five {
+    position: relative;
+    padding: 100px 0 70px;
+    background-size: cover;
+    background-position: right center;
+}
+
+.about-section-five .icon-box1 {
+    position: relative;
+    padding-left: 80px;
+    min-height: 60px;
+    margin-bottom: 30px;
+}
+
+.about-section-five .icon-box1 .ico {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.about-section-five .icon-box1 h5 {
+    font-size: 16px;
+    font-weight: 600;
+    color: #9ca6b6;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+.about-section-five .text {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+
+
+.img {
+    vertical-align: middle;
+    border-style: none;
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+}
+.theme-btn{
+border-radius: 32px;
+    background-color: transparent;
+    margin-bottom: 30px;
+    text-decoration: none;
+    color: #424794;
+/* about delta lab end */
+font-weight: 700;
+}
+.btn-title {
+    padding: 13px 45px;
+    border-radius: 30px;
+    color: var(--primary-1);
+    background-color: #fff;
+    text-transform: uppercase;
+    position: relative;
+    display: block;
+    z-index: 1;
+    width: 29%;
+}

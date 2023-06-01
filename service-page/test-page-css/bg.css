@@ -1,0 +1,89 @@
+/* bg background start*/
+.border-left{
+    border-left: 4px solid #A2BF62;
+    margin-left: 4%;
+}
+.page-title {
+    position: relative;
+    padding: 100px 0 50px;
+    background: #646464;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 6px;
+    overflow: hidden;
+}
+.page-title .content-box {
+    padding-left: 1.5rem;
+    position: relative;
+}
+.title{
+    color: #424794;
+}
+.clearfix li{
+    position: relative;
+    display: inline-block;
+    font-weight: 400;
+    color: #999;
+    padding-right: 15pxpx;
+    text-transform: uppercase;
+    font-size: 15PX;
+}
+.clearfix li a{
+    text-decoration: none;
+    color: black;   
+}
+
+/* bg background end */
+
+/* search start */
+.search {
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 5px 10px #0000001a;
+    margin-top: -50px;
+}
+.comment-form{
+    position: relative;
+    margin-bottom: 30px;
+    width: 92%;
+    margin-left: 4%;
+}
+.form-group{
+    position: relative;
+}
+.input-group {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    width: 100%;
+}
+
+/* .comment-form .form-group input[type=text], .comment-form .form-group input[type=password], .comment-form .form-group input[type=tel], .comment-form .form-group input[type=email], .comment-form .form-group textarea, .comment-form .form-group select { */
+.input{
+    /* position: relative; */
+    display: block;
+    line-height: 28px;
+    padding: 15px 20px;
+    height: 58px;
+    color: #7c7b7b;
+    font-size: 18px;
+    font-weight: 500;
+    background: #ffffff;
+    border: 1px solid #e1e5e9;
+    border-radius: 6px;
+    transition: all .3s ease;
+}
+.btn-input{
+    position: absolute;
+    top: 10px;
+    left: 95%;
+    z-index: 9;
+    border-radius: 5px;
+    padding: 5px 12px;
+    border: none;
+}
+
+/* search end */

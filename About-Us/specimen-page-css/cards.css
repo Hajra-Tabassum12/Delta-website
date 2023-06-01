@@ -1,0 +1,127 @@
+
+/* cards start */
+.test{
+    direction: ltr;
+    text-align: left;
+}
+.sidebar{
+    position: relative;
+    margin-bottom: 30px;
+}
+.blog{
+    position: relative;
+    border: 1px solid #e1e5e9;
+    background-color: #f1f5f8;
+    padding: 40px 30px;
+    border-radius: 6px
+}
+.ul li{
+    direction: 1tr;
+    text-align: left;
+    position: relative;
+    display: block;
+    border-bottom: 1px solid #e1e5e9
+}
+
+.ul li a{
+    position: relative;
+    display: block;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 600;
+    color: #1e1e2a;
+    padding: 14px 0 13px 20px;
+    transition: .5s;
+    text-decoration: none;
+}
+
+/* cards end */
+
+/* right aside start */
+.comment{
+    position: relative;
+    margin-bottom: 50px;
+}
+.com-box{
+    position: relative;
+    margin-bottom: 30px;
+}
+.comment1{
+    padding-bottom: 0;
+    border-bottom: 0px;
+}
+.inner{
+    position: relative;
+    background: #f1f5f8;
+    padding: 0px 25px;
+}
+.main{
+    padding: 30px 0px 0px 30px;
+    color: #404048;
+    position: relative;
+    font-weight: normal;
+    line-height: 1.25em;
+    margin: 0;
+    background: none;
+}
+.info{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.6em;
+    position: relative;
+    margin-bottom: 15px;
+}
+.acc{
+    overflow-anchor: none;
+}
+.card{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0.25rem;
+    margin-left: 30px; 
+}
+.card-header{
+    border-radius: 0;
+    margin-bottom: -1px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border-bottom: none;
+    
+}
+.card-header h2{
+    position: relative;
+    font-weight: normal;
+    line-height: 1.25em;
+    margin: 0;
+    background: none;
+    color: #424794;
+    position: relative;
+    color: #1e1e29;
+    padding: 30px 20px;
+    font-size: 16px;
+    font-weight: 500;
+}
+.card-body {
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1.25rem;
+}
+li{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+
+
+
+/* right aside end */

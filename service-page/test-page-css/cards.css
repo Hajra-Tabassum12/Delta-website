@@ -1,0 +1,60 @@
+/* cards start */
+
+.comments-area {
+    position: relative;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.comments-area .comment-box {
+    position: relative;
+    margin-bottom: 30px;
+    transition: all .3s ease;
+}
+.comment-inner{
+    position: relative;
+    background-color: #f1f5f8;
+}
+.comment-info{
+    position: relative;
+    line-height: 24px;
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 15px;
+    text-decoration: none;
+}
+.comments-area .date {
+    font-size: 16px;
+    color: #838d9e;
+    font-weight: normal;
+    font-family: "Barlow",sans-serif;
+}
+.text-card{
+    position: relative;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.5em;
+   
+}
+.text-card span{
+    padding: 5px 20px;
+    display: inline-block;
+    border: 1px solid rgb(212, 212, 212);
+    border-radius: 20px;
+}
+.alert-info {
+    color: #0c5460;
+    background-color: #d1ecf1;
+    border-color: #bee5eb;
+}
+.alert {
+    position: relative;
+    padding: 0.75rem 1.25rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+    font-size: 16px;
+    line-height: 1.6em;
+    font-weight: 400;
+    margin: 0 0 15px
+}
+

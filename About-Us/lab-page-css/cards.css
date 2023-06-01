@@ -1,0 +1,37 @@
+
+/* cards start */
+
+.service{
+    position: relative;
+    padding: 100px 0 70px;
+    min-height: 100vh;
+}
+.inner{
+    position: relative;
+    margin-bottom: 30px;
+}
+img{
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+    width: 100%;
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+}
+.content{
+    position: relative;
+    padding: 35px 30px;
+    background-color: #eff2f5;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    transition: .5s;
+    min-height: 250px;
+}
+.text{
+    position: relative;
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+
+/* cards end */

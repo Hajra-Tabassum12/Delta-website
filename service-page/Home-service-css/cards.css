@@ -1,0 +1,100 @@
+/* book a home service strt */
+
+.service-h{
+    position: relative;
+}
+.header{
+    padding-bottom: 50px;
+    color: #424794;
+    padding-top: 5%;
+}
+.heading-main{
+    font-size: 2.5rem;
+    font-weight: 600;
+    margin: 0 0 15px;
+    color: #424794;
+}
+/* book a home service end */
+
+/* appontment start */
+.appoint-heading{
+    font-weight: 600;
+    font-size: 26px;
+    padding-top: 4%;
+}
+.box-col{
+    border-radius: 20px;
+    box-shadow: 0 0 150px #42479421;
+    padding: 40px;
+    position: relative;
+    min-height: 400px;
+    margin: 50px 20px;
+    background: #fff6;
+    border: 1px solid #42479426;
+}
+.bx1{
+    animation: mover 1s infinite alternate;
+}
+.titleone{
+    font-size: 2rem;
+    font-weight: 600;
+    margin: 20px 0;
+    line-height: 1.25em;
+}
+.p{
+    color: black;
+    font-size: 16px;
+}
+.boxicon{
+    position: absolute;
+    bottom: -50px;
+    background: #424794;
+    width: 100px;
+    height: 100px;
+    line-height: 93px;
+    border-radius: 50%;
+    left: 50%;
+    margin-left: -50px;
+}
+.images{
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+    border-style: none;
+}
+.box-vision.box-col {
+    box-shadow: 0 0 150px #a2bf6294;
+    border: 1px solid #a2bf628a;
+    margin: 100px 20px 0;
+}
+.box-vision.box-col .titleone {
+    color: #a2bf62!important;
+    margin: 50px 0 20px!important;
+}
+.box-vision.box-col .boxicon {
+    bottom: auto;
+    top: -50px;
+    background: #a2bf62!important;
+}
+.left-img{
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 25%;
+    background-image: url(../Home-Service-img/left-img.png);
+    content: "";
+    background-size: cover;
+}
+.right-img{
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 25%;
+    background-image: url(../Home-Service-img/right-img.png);
+    content: "";
+    background-size: cover;
+}
+/* appontment end */

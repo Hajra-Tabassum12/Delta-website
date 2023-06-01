@@ -1,0 +1,40 @@
+
+/* our service start */
+
+.servbox{
+    min-height: 450px;
+    border-radius: 20px;
+    background-size: cover;
+    box-shadow: 0 0 150px #9fbddb;
+    margin: 0 10px;
+    border: 0px solid #fff;
+    position: relative;
+}
+
+
+
+.scontent {
+    background: #ffffffba;
+    clip-path: polygon(0% 0%,100% 0%,100% 70%,0% 100%,0% 0%);
+    padding: 40px 40px 60px;
+    color: #000;
+    font-size: 18px;
+    border-radius: 20px 20px 0 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: -1px;
+}
+
+.scontent1{
+    background: #ffffffeb;
+    bottom: 0;
+    top: auto;
+    border-radius: 0 0 20px 20px;
+    clip-path: polygon(0% 0%,100% 30%,100% 100%,0% 100%,0% 0%);
+    padding: 80px 40px 40px;
+    position: absolute;
+}
+
+
+/* our service end */

@@ -1,0 +1,85 @@
+
+/* our team started */
+.ourteam{
+    padding: 100px 0;
+    background-color: #eaeef3;
+    min-height: 700px;
+    position: relative;
+}
+.teamcircle {
+    width: 280px;
+    height: 280px;
+    background-color: #f2f7fb;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 270px;
+    text-align: center;
+    margin-top: 110px;
+    margin-right: -60px;
+    box-shadow: 0 0 150px #bed0e7;
+    border: 10px solid #ffffff59;
+    /* margin-left: 65%; */   
+}
+
+.teamlist {
+    list-style-type: none;
+    padding: 0 0 0 100px;
+    margin: 0;
+}
+ul{
+    list-style-type: none;
+}
+.teamlist li {
+    padding: 35px 0;
+    display: flex;
+    border-bottom: 1px solid #acc3e28a;
+    text-align: left;
+    align-items: center;
+}
+.teamicon {
+    width: 22%;
+    padding-right: 20px;
+}
+.plus{
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+}
+.teamtext {
+    font-size: 18px;
+    width: 78%;
+    color: #222;
+}
+.teamimg {
+    position: absolute;
+    display: inline-block;
+    left: 0;
+    top: 100px;
+    z-index: 1;
+}
+.curve{
+    position: absolute;
+    right: 0;
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+}
+.curvpattern{
+    position: absolute;
+    top: 20px;
+    left: 29%;
+}
+.pattern{
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+}
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+
+
+/* our team ended */

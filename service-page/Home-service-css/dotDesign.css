@@ -1,0 +1,16 @@
+/* dot design start */
+.dot{
+    width: 5px;
+    height: 5px;
+    background-color: #363636;
+    border-radius: 50%;
+    margin: 0 0.2rem
+}
+.middle-point{
+    width: 10px;
+    height: 10px;
+    background-color: #363636;
+    border-radius: 50%;
+    margin: 0 0.2rem
+}
+/* dot design end */
