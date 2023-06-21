@@ -1,0 +1,21 @@
+@import "../../HomePageCss/tooltip.css";
+@import "../../service-page/test-page-css/nav.css";
+@import "../../service-page/test-page-css/bg.css";
+@import "../../service-page/test-page-css/footer.css";
+
+
+.card{
+    position: relative;
+    padding: 100px 0px 70px ;
+}
+.clr{
+    color: #0c2957;
+}
+.clr2{
+    color: #a2bf62;
+}
+.btn{
+    border-radius: 20px;
+    background-color: #a2bf62;
+    color: white;
+}
